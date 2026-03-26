@@ -1,7 +1,6 @@
 pandas
 matplotlib
 seaborn
-streamlit
+streamlit>=1.36.0
 jupyter
-altair<5
-imghdr
+altair
