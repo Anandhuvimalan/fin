@@ -4,3 +4,4 @@ seaborn
 streamlit
 jupyter
 altair<5
+imghdr
