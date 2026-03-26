@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost
+P001,Business Laptop 14,Electronics,Computers,NovaTech,920.00,690.00
+P002,Wireless Mouse,Electronics,Accessories,NovaTech,24.00,11.00
+P003,Mechanical Keyboard,Electronics,Accessories,TypePro,78.00,38.00
+P004,27 inch Monitor,Electronics,Monitors,VisionMax,210.00,145.00
+P005,USB C Dock,Electronics,Accessories,LinkHub,95.00,58.00
+P006,Laser Printer,Office Supplies,Printers,Printly,240.00,176.00
+P007,A4 Paper Pack,Office Supplies,Paper,PaperTrail,9.00,4.20
+P008,Gel Pen Set,Office Supplies,Writing,InkFlow,12.00,5.50
+P009,Desk Organizer,Office Supplies,Storage,WorkGrid,18.00,8.20
+P010,Executive Chair,Furniture,Seating,SitWell,320.00,228.00
+P011,Standing Desk,Furniture,Desks,SitWell,480.00,342.00
+P012,Bookshelf,Furniture,Storage,WoodForm,160.00,106.00
+P013,Conference Table,Furniture,Tables,WoodForm,650.00,472.00
+P014,Air Fryer,Home and Kitchen,Appliances,HomeEase,110.00,72.00
+P015,Mixer Grinder,Home and Kitchen,Appliances,HomeEase,89.00,58.00
+P016,Cookware Set,Home and Kitchen,Cookware,ChefNest,145.00,93.00
+P017,Vacuum Cleaner,Home and Kitchen,Cleaning,PureHome,175.00,118.00
+P018,Water Bottle 1L,Sports and Fitness,Hydration,PeakFit,15.00,6.20
+P019,Yoga Mat,Sports and Fitness,Training,PeakFit,32.00,14.50
+P020,Dumbbell Pair 10kg,Sports and Fitness,Strength,PeakFit,68.00,42.00
+P021,Treadmill Basic,Sports and Fitness,Cardio,RunCore,780.00,590.00
+P022,Smartphone 128GB,Electronics,Mobiles,NovaTech,560.00,410.00
+P023,Tablet 10 inch,Electronics,Mobiles,NovaTech,340.00,248.00
+P024,Bluetooth Speaker,Electronics,Audio,SoundArc,72.00,44.00
+P025,Headphones,Electronics,Audio,SoundArc,58.00,31.00
+P026,Coffee Maker,Home and Kitchen,Appliances,ChefNest,98.00,66.00
+P027,Storage Box Set,Home and Kitchen,Storage,PureHome,26.00,12.00
+P028,Whiteboard,Office Supplies,Presentation,WorkGrid,46.00,27.00
+P029,LED Desk Lamp,Furniture,Lighting,LumaDesk,38.00,20.00
+P030,Router WiFi 6,Electronics,Networking,LinkHub,130.00,88.00

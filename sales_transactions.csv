@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_name,city,state,region,product_id,quantity,discount_pct,sales_channel,payment_method
+ORD-00001,23-12-2024,C018,Meera Rao,New York,New York,East,P026,6,0%,Online,UPI
+ORD-00002,05-05-2023,C117,Diya Nair,San Francisco,California,West,P029,1,20%,Online,Credit Card
+ORD-00003,19-01-2024,C076,Anika Nair,Boston,Massachusetts,East,P019,7,0%,Online,Credit Card
+ORD-00004,18-12-2023,C053,Rohan Bansal,Seattle,Washington,West,P029,9,0%,Wholesale,Cash
+ORD-00005,11-10-2025,C055,Tanvi Patel,Boston,Massachusetts,East,P025,4,5%,Retail,UPI
+ORD-00006,11-12-2022,C102,Neha Gupta,San Francisco,California,West,P004,1,10%,Online,Credit Card
+ORD-00007,30-03-2025,C094,Diya Kapoor,Boston,Massachusetts,East,P015,3,20%,Wholesale,UPI
+ORD-00008,08-09-2022,C118,Neha Sharma,Boston,Massachusetts,East,P010,2,15%,Online,UPI
+ORD-00009,01-08-2024,C032,Priya Gupta,Seattle,Washington,West,P005,3,5%,Online,Credit Card
+ORD-00010,16-05-2022,C071,Diya Shah,Atlanta,Georgia,South,P012,1,10%,Online,Credit Card
+ORD-00011,30-03-2021,C120,Sanjay Saxena,Austin,Texas,Central,P013,1,0%,Online,Credit Card
+ORD-00012,03-01-2024,C039,Priya Rao,Miami,Florida,South,P008,3,0%,Online,UPI
+ORD-00013,23-12-2025,C016,Tanvi Chopra,Chicago,Illinois,Central,P018,2,0%,Online,Credit Card
+ORD-00014,08-12-2022,C100,Neha Nair,Los Angeles,California,West,P029,1,10%,Online,UPI
+ORD-00015,22-02-2024,C039,Priya Rao,Miami,Florida,South,P008,1,10%,Retail,Bank Transfer
+ORD-00016,05-03-2023,C095,Sara Shah,New York,New York,East,P015,5,20%,Retail,Credit Card
+ORD-00017,05-04-2022,C089,Arjun Jain,Austin,Texas,Central,P017,1,10%,Online,Credit Card
+ORD-00018,16-12-2021,C022,Krish Singh,Chicago,Illinois,Central,P011,1,5%,Online,Credit Card
+ORD-00019,18-11-2025,C001,Ishaan Agarwal,Atlanta,Georgia,South,P025,1,0%,Retail,Cash
+ORD-00020,27-12-2023,C076,Anika Nair,Boston,Massachusetts,East,P007,4,0%,Retail,Credit Card
+ORD-00021,05-06-2024,C077,Krish Menon,New York,New York,East,P028,5,0%,Retail,Bank Transfer
+ORD-00022,10-04-2024,C118,Neha Sharma,Boston,Massachusetts,East,P007,4,0%,Online,Credit Card
+ORD-00023,20-06-2022,C101,Riya Chopra,Denver,Colorado,West,P001,1,10%,Online,UPI
+ORD-00024,27-06-2024,C020,Sara Gupta,Los Angeles,California,West,P014,6,5%,Online,Credit Card
+ORD-00025,08-06-2021,C115,Rahul Patel,Atlanta,Georgia,South,P007,1,5%,Online,UPI
+ORD-00026,01-09-2021,C118,Neha Sharma,Boston,Massachusetts,East,P019,4,10%,Online,Credit Card
+ORD-00027,17-04-2024,C031,Sara Bansal,Los Angeles,California,West,P019,5,0%,Wholesale,Credit Card
+ORD-00028,30-03-2021,C065,Rahul Jain,Chicago,Illinois,Central,P030,1,15%,Online,Credit Card
+ORD-00029,17-01-2025,C062,Sanjay Rao,Seattle,Washington,West,P022,3,0%,Online,Credit Card
+ORD-00030,11-10-2023,C058,Rohan Jain,New York,New York,East,P003,2,0%,Online,UPI
+ORD-00031,06-09-2024,C024,Aisha Chopra,San Francisco,California,West,P019,8,10%,Retail,UPI
+ORD-00032,07-11-2024,C071,Diya Shah,Atlanta,Georgia,South,P007,3,10%,Wholesale,Cash
+ORD-00033,13-11-2025,C071,Diya Shah,Atlanta,Georgia,South,P015,4,0%,Online,Cash
+ORD-00034,15-06-2025,C103,Neha Srinivasan,Atlanta,Georgia,South,P003,2,0%,Online,UPI
+ORD-00035,05-04-2022,C020,Sara Gupta,Los Angeles,California,West,P004,1,5%,Online,Credit Card
+ORD-00036,13-01-2024,C007,Saanvi Yadav,Denver,Colorado,West,P027,8,10%,Online,Credit Card
+ORD-00037,05-08-2024,C051,Saanvi Kapoor,Miami,Florida,South,P003,2,5%,Online,UPI
+ORD-00038,21-05-2024,C050,Neha Bansal,Austin,Texas,Central,P014,2,0%,Retail,Bank Transfer
+ORD-00039,03-09-2023,C117,Diya Nair,San Francisco,California,West,P028,1,5%,Online,UPI
+ORD-00040,21-07-2022,C051,Saanvi Kapoor,Miami,Florida,South,P005,1,15%,Retail,UPI
+ORD-00041,19-04-2023,C086,Rahul Saxena,Los Angeles,California,West,P002,7,0%,Online,Credit Card
+ORD-00042,21-07-2025,C113,Anika Saxena,Atlanta,Georgia,South,P002,3,0%,Retail,Credit Card
+ORD-00043,19-01-2021,C018,Meera Rao,New York,New York,East,P002,6,0%,Retail,Cash
+ORD-00044,02-09-2022,C106,Saanvi Bansal,Boston,Massachusetts,East,P008,6,0%,Retail,Credit Card
+ORD-00045,02-10-2022,C071,Diya Shah,Atlanta,Georgia,South,P015,3,0%,Wholesale,Credit Card
+ORD-00046,11-11-2022,C116,Anika Bansal,Los Angeles,California,West,P025,4,20%,Retail,Cash
+ORD-00047,18-03-2021,C059,Rahul Das,Philadelphia,Pennsylvania,East,P003,5,0%,Retail,Credit Card
+ORD-00048,09-10-2025,C106,Saanvi Bansal,Boston,Massachusetts,East,P018,3,10%,Retail,Bank Transfer
+ORD-00049,27-04-2022,C001,Ishaan Agarwal,Atlanta,Georgia,South,P002,5,10%,Retail,Credit Card
+ORD-00050,25-07-2023,C044,Riya Jain,Boston,Massachusetts,East,P023,2,0%,Wholesale,Credit Card
+ORD-00051,06-01-2024,C066,Saanvi Shah,Boston,Massachusetts,East,P006,1,10%,Online,Cash
+ORD-00052,18-08-2022,C083,Aarav Bansal,Denver,Colorado,West,P008,3,0%,Online,UPI
+ORD-00053,16-01-2021,C028,Kavya Saxena,Boston,Massachusetts,East,P007,9,0%,Online,Credit Card
+ORD-00054,24-08-2022,C045,Ishaan Gupta,Seattle,Washington,West,P017,3,0%,Online,Credit Card
+ORD-00055,09-11-2025,C009,Anika Singh,Philadelphia,Pennsylvania,East,P019,8,0%,Retail,UPI
+ORD-00056,03-01-2021,C108,Aarav Agarwal,Miami,Florida,South,P010,1,15%,Online,Bank Transfer
+ORD-00057,17-08-2023,C118,Neha Sharma,Boston,Massachusetts,East,P003,4,20%,Online,Credit Card
+ORD-00058,31-07-2022,C046,Aarav Rao,Dallas,Texas,Central,P008,2,5%,Online,UPI
+ORD-00059,04-05-2024,C040,Aarav Kapoor,Chicago,Illinois,Central,P019,4,0%,Online,Bank Transfer
+ORD-00060,13-07-2025,C046,Aarav Rao,Dallas,Texas,Central,P007,3,15%,Retail,Credit Card
+ORD-00061,27-11-2021,C065,Rahul Jain,Chicago,Illinois,Central,P027,5,5%,Retail,Credit Card
+ORD-00062,25-03-2021,C011,Ishaan Rao,Austin,Texas,Central,P026,1,10%,Retail,Credit Card
+ORD-00063,08-02-2021,C076,Anika Nair,Boston,Massachusetts,East,P023,2,15%,Wholesale,Credit Card
+ORD-00064,18-03-2021,C024,Aisha Chopra,San Francisco,California,West,P002,5,0%,Retail,UPI
+ORD-00065,06-07-2024,C044,Riya Jain,Boston,Massachusetts,East,P002,10,5%,Retail,Cash
+ORD-00066,14-09-2022,C071,Diya Shah,Atlanta,Georgia,South,P001,1,5%,Online,Bank Transfer
+ORD-00067,03-02-2024,C040,Aarav Kapoor,Chicago,Illinois,Central,P004,4,0%,Retail,Credit Card
+ORD-00068,06-09-2022,C051,Saanvi Kapoor,Miami,Florida,South,P002,6,20%,Online,Cash
+ORD-00069,26-07-2023,C011,Ishaan Rao,Austin,Texas,Central,P007,2,10%,Retail,Credit Card
+ORD-00070,03-01-2025,C094,Diya Kapoor,Boston,Massachusetts,East,P019,2,15%,Online,Credit Card
+ORD-00071,11-09-2021,C012,Kavya Menon,Los Angeles,California,West,P007,6,0%,Online,UPI
+ORD-00072,06-06-2023,C068,Nikhil Reddy,San Francisco,California,West,P003,6,5%,Online,Credit Card
+ORD-00073,22-04-2023,C011,Ishaan Rao,Austin,Texas,Central,P016,4,0%,Retail,Credit Card
+ORD-00074,05-10-2021,C054,Ishaan Verma,Seattle,Washington,West,P008,10,20%,Wholesale,Credit Card
+ORD-00075,28-01-2024,C071,Diya Shah,Atlanta,Georgia,South,P018,3,5%,Online,Bank Transfer
+ORD-00076,13-07-2025,C008,Rohan Das,Seattle,Washington,West,P002,6,15%,Online,Credit Card
+ORD-00077,04-08-2022,C003,Priya Menon,New York,New York,East,P006,2,0%,Online,Credit Card
+ORD-00078,04-08-2024,C006,Nikhil Gupta,San Francisco,California,West,P008,4,0%,Retail,Credit Card
+ORD-00079,21-10-2021,C092,Arjun Menon,Atlanta,Georgia,South,P002,10,20%,Online,UPI
+ORD-00080,16-06-2024,C106,Saanvi Bansal,Boston,Massachusetts,East,P005,2,0%,Online,Credit Card
+ORD-00081,28-04-2024,C029,Aarav Menon,Denver,Colorado,West,P009,2,0%,Retail,UPI
+ORD-00082,22-04-2025,C046,Aarav Rao,Dallas,Texas,Central,P004,2,5%,Wholesale,Bank Transfer
+ORD-00083,15-07-2025,C106,Saanvi Bansal,Boston,Massachusetts,East,P001,1,0%,Online,Credit Card
+ORD-00084,17-11-2024,C084,Sara Srinivasan,Los Angeles,California,West,P024,1,0%,Wholesale,UPI
+ORD-00085,28-02-2021,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P010,3,5%,Retail,UPI
+ORD-00086,05-11-2022,C085,Nikhil Patel,Miami,Florida,South,P025,3,15%,Retail,UPI
+ORD-00087,05-12-2023,C109,Priya Nair,New York,New York,East,P003,6,0%,Online,Credit Card
+ORD-00088,11-12-2023,C059,Rahul Das,Philadelphia,Pennsylvania,East,P030,3,5%,Retail,UPI
+ORD-00089,21-06-2025,C093,Aisha Iyer,Los Angeles,California,West,P004,1,10%,Retail,Cash
+ORD-00090,02-10-2025,C118,Neha Sharma,Boston,Massachusetts,East,P027,2,0%,Online,Cash
+ORD-00091,03-06-2022,C038,Priya Reddy,Denver,Colorado,West,P010,1,20%,Retail,Credit Card
+ORD-00092,11-02-2025,C008,Rohan Das,Seattle,Washington,West,P021,2,10%,Retail,Credit Card
+ORD-00093,16-12-2021,C086,Rahul Saxena,Los Angeles,California,West,P007,4,0%,Online,UPI
+ORD-00094,15-11-2023,C109,Priya Nair,New York,New York,East,P003,2,5%,Wholesale,UPI
+ORD-00095,04-07-2024,C105,Tanvi Das,Seattle,Washington,West,P002,7,0%,Online,Cash
+ORD-00096,05-09-2025,C118,Neha Sharma,Boston,Massachusetts,East,P005,3,0%,Online,Credit Card
+ORD-00097,04-11-2025,C106,Saanvi Bansal,Boston,Massachusetts,East,P001,1,15%,Wholesale,Credit Card
+ORD-00098,24-08-2022,C105,Tanvi Das,Seattle,Washington,West,P006,1,5%,Online,Credit Card
+ORD-00099,18-10-2025,C024,Aisha Chopra,San Francisco,California,West,P024,6,15%,Online,Credit Card
+ORD-00100,10-01-2021,C049,Arjun Yadav,San Francisco,California,West,P003,6,10%,Retail,UPI
+ORD-00101,15-07-2023,C085,Nikhil Patel,Miami,Florida,South,P015,3,0%,Retail,Credit Card
+ORD-00102,30-01-2022,C039,Priya Rao,Miami,Florida,South,P024,4,0%,Online,UPI
+ORD-00103,05-04-2022,C058,Rohan Jain,New York,New York,East,P008,9,10%,Retail,Credit Card
+ORD-00104,25-07-2023,C019,Varun Menon,Dallas,Texas,Central,P008,5,5%,Wholesale,Credit Card
+ORD-00105,20-05-2022,C060,Sara Chopra,Atlanta,Georgia,South,P015,3,0%,Retail,Bank Transfer
+ORD-00106,13-06-2021,C103,Neha Srinivasan,Atlanta,Georgia,South,P026,2,15%,Wholesale,UPI
+ORD-00107,02-08-2023,C100,Neha Nair,Los Angeles,California,West,P001,1,0%,Retail,Credit Card
+ORD-00108,04-10-2023,C103,Neha Srinivasan,Atlanta,Georgia,South,P020,1,15%,Wholesale,Credit Card
+ORD-00109,11-01-2021,C056,Rahul Iyer,Boston,Massachusetts,East,P027,1,0%,Online,Credit Card
+ORD-00110,10-10-2021,C101,Riya Chopra,Denver,Colorado,West,P012,4,0%,Online,Credit Card
+ORD-00111,09-01-2023,C036,Sara Rao,Chicago,Illinois,Central,P027,6,10%,Online,Bank Transfer
+ORD-00112,30-09-2022,C015,Krish Saxena,Seattle,Washington,West,P024,5,0%,Online,Credit Card
+ORD-00113,03-01-2021,C092,Arjun Menon,Atlanta,Georgia,South,P026,4,10%,Online,Bank Transfer
+ORD-00114,13-11-2021,C057,Meera Nair,Seattle,Washington,West,P023,2,0%,Retail,UPI
+ORD-00115,17-07-2023,C092,Arjun Menon,Atlanta,Georgia,South,P002,1,20%,Online,Credit Card
+ORD-00116,23-03-2025,C101,Riya Chopra,Denver,Colorado,West,P028,7,10%,Retail,Bank Transfer
+ORD-00117,18-05-2022,C061,Kavya Kapoor,Denver,Colorado,West,P003,4,20%,Online,UPI
+ORD-00118,14-01-2021,C117,Diya Nair,San Francisco,California,West,P009,6,20%,Online,UPI
+ORD-00119,24-03-2025,C094,Diya Kapoor,Boston,Massachusetts,East,P008,4,10%,Online,Credit Card
+ORD-00120,08-04-2021,C063,Diya Sharma,Boston,Massachusetts,East,P019,5,0%,Online,Cash
+ORD-00121,19-04-2025,C046,Aarav Rao,Dallas,Texas,Central,P030,1,0%,Online,Credit Card
+ORD-00122,20-10-2025,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P023,3,10%,Retail,Credit Card
+ORD-00123,22-02-2025,C057,Meera Nair,Seattle,Washington,West,P007,10,0%,Wholesale,Credit Card
+ORD-00124,09-11-2024,C095,Sara Shah,New York,New York,East,P007,9,5%,Online,UPI
+ORD-00125,02-12-2024,C008,Rohan Das,Seattle,Washington,West,P016,3,0%,Online,UPI
+ORD-00126,28-11-2022,C094,Diya Kapoor,Boston,Massachusetts,East,P003,2,5%,Retail,Credit Card
+ORD-00127,22-01-2023,C095,Sara Shah,New York,New York,East,P020,4,0%,Online,Credit Card
+ORD-00128,01-08-2025,C047,Varun Nair,Atlanta,Georgia,South,P016,1,0%,Online,Credit Card
+ORD-00129,06-03-2023,C086,Rahul Saxena,Los Angeles,California,West,P004,4,15%,Retail,Credit Card
+ORD-00130,22-01-2024,C038,Priya Reddy,Denver,Colorado,West,P014,1,10%,Online,Bank Transfer
+ORD-00131,19-11-2025,C038,Priya Reddy,Denver,Colorado,West,P026,5,0%,Online,UPI
+ORD-00132,11-08-2021,C090,Rahul Menon,Atlanta,Georgia,South,P008,9,10%,Retail,UPI
+ORD-00133,23-09-2024,C112,Rahul Agarwal,New York,New York,East,P012,2,0%,Retail,UPI
+ORD-00134,07-06-2024,C053,Rohan Bansal,Seattle,Washington,West,P017,1,15%,Online,UPI
+ORD-00135,31-10-2023,C039,Priya Rao,Miami,Florida,South,P002,4,10%,Online,Credit Card
+ORD-00136,28-08-2023,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P015,1,10%,Online,Credit Card
+ORD-00137,19-10-2022,C105,Tanvi Das,Seattle,Washington,West,P017,3,0%,Wholesale,Bank Transfer
+ORD-00138,31-12-2024,C060,Sara Chopra,Atlanta,Georgia,South,P018,7,5%,Online,Cash
+ORD-00139,22-11-2024,C080,Tanvi Kapoor,Denver,Colorado,West,P004,3,0%,Retail,Credit Card
+ORD-00140,11-09-2023,C042,Varun Rao,Austin,Texas,Central,P013,1,5%,Online,Credit Card
+ORD-00141,08-05-2023,C114,Aarav Das,Denver,Colorado,West,P003,1,10%,Online,Credit Card
+ORD-00142,14-01-2022,C039,Priya Rao,Miami,Florida,South,P009,6,0%,Online,Credit Card
+ORD-00143,06-05-2024,C085,Nikhil Patel,Miami,Florida,South,P010,3,0%,Online,UPI
+ORD-00144,31-01-2021,C117,Diya Nair,San Francisco,California,West,P009,8,5%,Retail,Bank Transfer
+ORD-00145,29-08-2025,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P015,6,0%,Wholesale,Credit Card
+ORD-00146,13-01-2022,C058,Rohan Jain,New York,New York,East,P015,2,0%,Retail,UPI
+ORD-00147,01-02-2022,C116,Anika Bansal,Los Angeles,California,West,P018,8,15%,Retail,Credit Card
+ORD-00148,05-10-2022,C042,Varun Rao,Austin,Texas,Central,P025,2,0%,Retail,UPI
+ORD-00149,26-08-2024,C036,Sara Rao,Chicago,Illinois,Central,P018,1,5%,Retail,Credit Card
+ORD-00150,17-03-2024,C105,Tanvi Das,Seattle,Washington,West,P008,3,0%,Retail,Credit Card
+ORD-00151,28-09-2025,C098,Rohan Reddy,Miami,Florida,South,P002,5,15%,Retail,Bank Transfer
+ORD-00152,25-12-2024,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P025,1,5%,Online,Credit Card
+ORD-00153,18-06-2025,C033,Neha Rao,Atlanta,Georgia,South,P007,9,10%,Online,Credit Card
+ORD-00154,03-12-2023,C110,Saanvi Reddy,Austin,Texas,Central,P019,1,10%,Retail,Credit Card
+ORD-00155,17-06-2023,C005,Tanvi Yadav,Atlanta,Georgia,South,P009,8,0%,Retail,Credit Card
+ORD-00156,12-04-2025,C114,Aarav Das,Denver,Colorado,West,P024,5,5%,Online,Credit Card
+ORD-00157,01-11-2021,C034,Krish Das,New York,New York,East,P007,8,0%,Retail,UPI
+ORD-00158,12-11-2025,C038,Priya Reddy,Denver,Colorado,West,P025,4,15%,Online,Credit Card
+ORD-00159,31-05-2025,C086,Rahul Saxena,Los Angeles,California,West,P013,1,15%,Retail,UPI
+ORD-00160,29-01-2022,C083,Aarav Bansal,Denver,Colorado,West,P002,1,0%,Online,Credit Card
+ORD-00161,08-01-2025,C071,Diya Shah,Atlanta,Georgia,South,P018,3,0%,Online,Credit Card
+ORD-00162,05-11-2024,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P015,2,5%,Retail,Credit Card
+ORD-00163,22-12-2022,C080,Tanvi Kapoor,Denver,Colorado,West,P029,3,0%,Online,Credit Card
+ORD-00164,26-05-2021,C096,Neha Agarwal,San Francisco,California,West,P003,1,0%,Online,Credit Card
+ORD-00165,26-01-2025,C108,Aarav Agarwal,Miami,Florida,South,P019,2,0%,Retail,Credit Card
+ORD-00166,15-05-2025,C001,Ishaan Agarwal,Atlanta,Georgia,South,P010,4,10%,Online,Credit Card
+ORD-00167,22-06-2024,C039,Priya Rao,Miami,Florida,South,P002,1,5%,Online,Credit Card
+ORD-00168,18-12-2022,C012,Kavya Menon,Los Angeles,California,West,P014,4,10%,Online,Bank Transfer
+ORD-00169,21-07-2022,C091,Riya Rao,Seattle,Washington,West,P016,1,0%,Retail,Cash
+ORD-00170,03-08-2023,C103,Neha Srinivasan,Atlanta,Georgia,South,P010,2,10%,Retail,Cash
+ORD-00171,16-04-2025,C086,Rahul Saxena,Los Angeles,California,West,P015,2,10%,Retail,Cash
+ORD-00172,21-09-2025,C050,Neha Bansal,Austin,Texas,Central,P008,5,10%,Retail,Cash
+ORD-00173,06-07-2022,C065,Rahul Jain,Chicago,Illinois,Central,P008,4,0%,Wholesale,Cash
+ORD-00174,02-05-2021,C097,Aarav Srinivasan,Seattle,Washington,West,P018,2,10%,Wholesale,UPI
+ORD-00175,12-05-2021,C098,Rohan Reddy,Miami,Florida,South,P007,2,5%,Wholesale,Credit Card
+ORD-00176,06-06-2025,C097,Aarav Srinivasan,Seattle,Washington,West,P002,5,5%,Online,UPI
+ORD-00177,02-04-2023,C038,Priya Reddy,Denver,Colorado,West,P010,1,5%,Retail,Credit Card
+ORD-00178,09-01-2021,C071,Diya Shah,Atlanta,Georgia,South,P004,2,0%,Online,Credit Card
+ORD-00179,01-10-2024,C018,Meera Rao,New York,New York,East,P002,4,5%,Retail,Credit Card
+ORD-00180,16-01-2022,C106,Saanvi Bansal,Boston,Massachusetts,East,P003,3,20%,Wholesale,Credit Card
+ORD-00181,19-10-2025,C034,Krish Das,New York,New York,East,P010,1,10%,Retail,UPI
+ORD-00182,27-04-2022,C007,Saanvi Yadav,Denver,Colorado,West,P017,3,0%,Retail,Bank Transfer
+ORD-00183,03-04-2021,C046,Aarav Rao,Dallas,Texas,Central,P004,2,5%,Wholesale,Credit Card
+ORD-00184,23-04-2021,C047,Varun Nair,Atlanta,Georgia,South,P002,3,0%,Wholesale,Credit Card
+ORD-00185,06-07-2021,C060,Sara Chopra,Atlanta,Georgia,South,P004,4,0%,Retail,UPI
+ORD-00186,28-02-2022,C066,Saanvi Shah,Boston,Massachusetts,East,P002,7,5%,Online,Credit Card
+ORD-00187,28-11-2021,C099,Tanvi Bansal,San Francisco,California,West,P007,3,15%,Online,Bank Transfer
+ORD-00188,26-06-2023,C006,Nikhil Gupta,San Francisco,California,West,P007,2,0%,Retail,Credit Card
+ORD-00189,25-11-2023,C059,Rahul Das,Philadelphia,Pennsylvania,East,P022,2,0%,Wholesale,Credit Card
+ORD-00190,25-10-2023,C043,Rohan Srinivasan,Philadelphia,Pennsylvania,East,P007,4,0%,Retail,UPI
+ORD-00191,06-03-2024,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P007,6,20%,Online,Credit Card
+ORD-00192,02-08-2022,C089,Arjun Jain,Austin,Texas,Central,P003,1,0%,Online,Credit Card
+ORD-00193,05-06-2021,C101,Riya Chopra,Denver,Colorado,West,P028,8,10%,Online,UPI
+ORD-00194,18-01-2025,C020,Sara Gupta,Los Angeles,California,West,P027,3,15%,Retail,Credit Card
+ORD-00195,24-03-2025,C002,Riya Shah,Austin,Texas,Central,P019,6,0%,Online,Credit Card
+ORD-00196,04-01-2022,C016,Tanvi Chopra,Chicago,Illinois,Central,P030,3,0%,Wholesale,Credit Card
+ORD-00197,06-07-2022,C118,Neha Sharma,Boston,Massachusetts,East,P014,2,0%,Retail,Bank Transfer
+ORD-00198,13-05-2025,C001,Ishaan Agarwal,Atlanta,Georgia,South,P009,1,0%,Online,Credit Card
+ORD-00199,05-02-2025,C090,Rahul Menon,Atlanta,Georgia,South,P029,3,0%,Online,UPI
+ORD-00200,05-04-2024,C036,Sara Rao,Chicago,Illinois,Central,P003,3,5%,Online,UPI
+ORD-00201,24-02-2022,C006,Nikhil Gupta,San Francisco,California,West,P028,4,0%,Online,Credit Card
+ORD-00202,31-07-2025,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P002,7,0%,Online,Bank Transfer
+ORD-00203,20-11-2024,C120,Sanjay Saxena,Austin,Texas,Central,P016,1,5%,Online,Bank Transfer
+ORD-00204,21-09-2023,C097,Aarav Srinivasan,Seattle,Washington,West,P002,1,0%,Online,Bank Transfer
+ORD-00205,14-08-2023,C009,Anika Singh,Philadelphia,Pennsylvania,East,P001,1,0%,Retail,Credit Card
+ORD-00206,06-08-2024,C009,Anika Singh,Philadelphia,Pennsylvania,East,P011,2,15%,Online,Bank Transfer
+ORD-00207,08-08-2022,C101,Riya Chopra,Denver,Colorado,West,P005,1,10%,Retail,Credit Card
+ORD-00208,18-07-2021,C087,Sara Saxena,San Francisco,California,West,P006,4,20%,Retail,UPI
+ORD-00209,10-08-2025,C105,Tanvi Das,Seattle,Washington,West,P002,6,0%,Retail,Credit Card
+ORD-00210,02-02-2021,C111,Rohan Rao,San Francisco,California,West,P002,3,0%,Online,Credit Card
+ORD-00211,15-01-2024,C087,Sara Saxena,San Francisco,California,West,P005,3,5%,Online,UPI
+ORD-00212,09-10-2025,C111,Rohan Rao,San Francisco,California,West,P006,1,15%,Online,Credit Card
+ORD-00213,01-06-2025,C092,Arjun Menon,Atlanta,Georgia,South,P015,1,0%,Online,Credit Card
+ORD-00214,27-09-2021,C112,Rahul Agarwal,New York,New York,East,P020,2,10%,Online,UPI
+ORD-00215,07-11-2024,C108,Aarav Agarwal,Miami,Florida,South,P019,3,15%,Online,Credit Card
+ORD-00216,30-12-2021,C040,Aarav Kapoor,Chicago,Illinois,Central,P007,4,0%,Online,Bank Transfer
+ORD-00217,22-01-2024,C097,Aarav Srinivasan,Seattle,Washington,West,P025,3,10%,Retail,Bank Transfer
+ORD-00218,16-06-2025,C043,Rohan Srinivasan,Philadelphia,Pennsylvania,East,P016,1,0%,Online,Bank Transfer
+ORD-00219,21-05-2021,C044,Riya Jain,Boston,Massachusetts,East,P005,1,0%,Wholesale,Credit Card
+ORD-00220,13-03-2025,C112,Rahul Agarwal,New York,New York,East,P003,1,5%,Retail,Credit Card
+ORD-00221,12-01-2023,C078,Aisha Singh,Austin,Texas,Central,P010,3,0%,Retail,Credit Card
+ORD-00222,29-08-2023,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P004,2,0%,Online,Credit Card
+ORD-00223,22-09-2022,C047,Varun Nair,Atlanta,Georgia,South,P025,1,20%,Online,Cash
+ORD-00224,10-04-2025,C004,Aarav Shah,Chicago,Illinois,Central,P007,4,0%,Online,Credit Card
+ORD-00225,21-02-2024,C020,Sara Gupta,Los Angeles,California,West,P015,5,15%,Wholesale,Bank Transfer
+ORD-00226,01-08-2025,C104,Priya Kapoor,Boston,Massachusetts,East,P009,1,5%,Wholesale,Cash
+ORD-00227,06-05-2021,C106,Saanvi Bansal,Boston,Massachusetts,East,P008,2,5%,Online,Cash
+ORD-00228,18-09-2023,C046,Aarav Rao,Dallas,Texas,Central,P025,3,10%,Online,UPI
+ORD-00229,28-01-2025,C089,Arjun Jain,Austin,Texas,Central,P027,3,10%,Online,UPI
+ORD-00230,03-01-2025,C024,Aisha Chopra,San Francisco,California,West,P024,1,0%,Retail,Cash
+ORD-00231,04-02-2024,C098,Rohan Reddy,Miami,Florida,South,P007,2,10%,Wholesale,UPI
+ORD-00232,31-12-2023,C088,Kavya Reddy,Los Angeles,California,West,P002,3,10%,Retail,Credit Card
+ORD-00233,26-09-2024,C029,Aarav Menon,Denver,Colorado,West,P018,5,0%,Retail,UPI
+ORD-00234,11-10-2025,C090,Rahul Menon,Atlanta,Georgia,South,P007,3,0%,Retail,Credit Card
+ORD-00235,07-08-2021,C094,Diya Kapoor,Boston,Massachusetts,East,P022,1,0%,Online,Cash
+ORD-00236,01-07-2025,C046,Aarav Rao,Dallas,Texas,Central,P010,2,5%,Retail,Bank Transfer
+ORD-00237,07-10-2021,C100,Neha Nair,Los Angeles,California,West,P002,5,0%,Online,UPI
+ORD-00238,07-09-2024,C105,Tanvi Das,Seattle,Washington,West,P027,8,0%,Retail,Cash
+ORD-00239,29-04-2024,C084,Sara Srinivasan,Los Angeles,California,West,P027,9,5%,Online,Bank Transfer
+ORD-00240,02-05-2021,C021,Nikhil Rao,Denver,Colorado,West,P003,2,0%,Wholesale,Bank Transfer
+ORD-00241,22-05-2023,C038,Priya Reddy,Denver,Colorado,West,P023,1,10%,Wholesale,Credit Card
+ORD-00242,10-07-2023,C056,Rahul Iyer,Boston,Massachusetts,East,P010,2,0%,Retail,UPI
+ORD-00243,07-04-2024,C008,Rohan Das,Seattle,Washington,West,P007,8,0%,Retail,Bank Transfer
+ORD-00244,06-08-2022,C028,Kavya Saxena,Boston,Massachusetts,East,P008,7,0%,Retail,UPI
+ORD-00245,07-07-2024,C051,Saanvi Kapoor,Miami,Florida,South,P018,8,0%,Online,Credit Card
+ORD-00246,17-10-2021,C006,Nikhil Gupta,San Francisco,California,West,P014,1,20%,Retail,Credit Card
+ORD-00247,01-06-2022,C062,Sanjay Rao,Seattle,Washington,West,P002,1,0%,Online,UPI
+ORD-00248,23-04-2024,C078,Aisha Singh,Austin,Texas,Central,P008,4,5%,Retail,Credit Card
+ORD-00249,03-01-2021,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P026,5,5%,Online,Credit Card
+ORD-00250,22-02-2021,C026,Sara Nair,Atlanta,Georgia,South,P014,3,5%,Retail,Bank Transfer
+ORD-00251,29-07-2022,C021,Nikhil Rao,Denver,Colorado,West,P016,3,0%,Online,Credit Card
+ORD-00252,10-06-2022,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P005,1,15%,Online,UPI
+ORD-00253,02-12-2021,C011,Ishaan Rao,Austin,Texas,Central,P005,2,15%,Wholesale,Cash
+ORD-00254,05-02-2022,C101,Riya Chopra,Denver,Colorado,West,P011,4,5%,Wholesale,Bank Transfer
+ORD-00255,08-02-2021,C032,Priya Gupta,Seattle,Washington,West,P008,3,5%,Retail,Credit Card
+ORD-00256,29-11-2023,C060,Sara Chopra,Atlanta,Georgia,South,P007,7,5%,Wholesale,UPI
+ORD-00257,23-09-2024,C100,Neha Nair,Los Angeles,California,West,P004,2,5%,Retail,Credit Card
+ORD-00258,30-01-2025,C056,Rahul Iyer,Boston,Massachusetts,East,P015,1,5%,Retail,Bank Transfer
+ORD-00259,27-10-2021,C040,Aarav Kapoor,Chicago,Illinois,Central,P015,1,0%,Retail,Cash
+ORD-00260,28-01-2025,C049,Arjun Yadav,San Francisco,California,West,P004,1,5%,Wholesale,Credit Card
+ORD-00261,21-02-2023,C041,Anika Agarwal,Seattle,Washington,West,P010,2,10%,Retail,UPI
+ORD-00262,03-09-2022,C116,Anika Bansal,Los Angeles,California,West,P030,1,10%,Online,Credit Card
+ORD-00263,16-03-2025,C088,Kavya Reddy,Los Angeles,California,West,P002,6,0%,Online,Credit Card
+ORD-00264,16-02-2025,C042,Varun Rao,Austin,Texas,Central,P015,6,15%,Online,Credit Card
+ORD-00265,05-08-2025,C101,Riya Chopra,Denver,Colorado,West,P018,6,5%,Retail,Bank Transfer
+ORD-00266,10-08-2021,C113,Anika Saxena,Atlanta,Georgia,South,P007,6,10%,Online,Credit Card
+ORD-00267,23-11-2021,C072,Anika Sharma,Dallas,Texas,Central,P019,5,15%,Online,Credit Card
+ORD-00268,23-01-2023,C082,Varun Das,Los Angeles,California,West,P001,1,0%,Online,Cash
+ORD-00269,12-03-2025,C064,Kavya Verma,Los Angeles,California,West,P024,6,5%,Online,Credit Card
+ORD-00270,01-08-2023,C080,Tanvi Kapoor,Denver,Colorado,West,P018,3,20%,Retail,Bank Transfer
+ORD-00271,28-06-2021,C026,Sara Nair,Atlanta,Georgia,South,P018,1,0%,Retail,Cash
+ORD-00272,30-01-2023,C111,Rohan Rao,San Francisco,California,West,P011,1,0%,Online,UPI
+ORD-00273,28-06-2024,C048,Saanvi Gupta,Chicago,Illinois,Central,P020,6,10%,Online,Credit Card
+ORD-00274,11-03-2024,C006,Nikhil Gupta,San Francisco,California,West,P007,5,15%,Online,Bank Transfer
+ORD-00275,26-05-2025,C056,Rahul Iyer,Boston,Massachusetts,East,P018,6,0%,Online,Credit Card
+ORD-00276,03-04-2023,C003,Priya Menon,New York,New York,East,P022,2,5%,Wholesale,UPI
+ORD-00277,20-12-2023,C066,Saanvi Shah,Boston,Massachusetts,East,P010,1,0%,Online,Credit Card
+ORD-00278,21-09-2024,C038,Priya Reddy,Denver,Colorado,West,P016,3,0%,Wholesale,UPI
+ORD-00279,13-06-2024,C050,Neha Bansal,Austin,Texas,Central,P025,4,10%,Online,Credit Card
+ORD-00280,23-06-2025,C033,Neha Rao,Atlanta,Georgia,South,P009,3,10%,Retail,Credit Card
+ORD-00281,10-01-2023,C080,Tanvi Kapoor,Denver,Colorado,West,P022,1,5%,Online,Credit Card
+ORD-00282,31-10-2022,C046,Aarav Rao,Dallas,Texas,Central,P020,1,0%,Online,Credit Card
+ORD-00283,21-01-2025,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P030,2,10%,Retail,Credit Card
+ORD-00284,03-04-2025,C044,Riya Jain,Boston,Massachusetts,East,P002,5,0%,Online,Credit Card
+ORD-00285,04-06-2022,C073,Arjun Iyer,Miami,Florida,South,P019,5,15%,Online,Credit Card
+ORD-00286,08-01-2022,C038,Priya Reddy,Denver,Colorado,West,P027,2,0%,Retail,UPI
+ORD-00287,05-08-2023,C025,Arjun Verma,Miami,Florida,South,P018,8,10%,Online,UPI
+ORD-00288,16-10-2023,C060,Sara Chopra,Atlanta,Georgia,South,P029,9,15%,Retail,Credit Card
+ORD-00289,29-08-2025,C101,Riya Chopra,Denver,Colorado,West,P019,4,20%,Retail,Credit Card
+ORD-00290,05-11-2025,C039,Priya Rao,Miami,Florida,South,P026,3,0%,Retail,Credit Card
+ORD-00291,18-04-2022,C101,Riya Chopra,Denver,Colorado,West,P015,3,5%,Online,UPI
+ORD-00292,01-07-2025,C042,Varun Rao,Austin,Texas,Central,P002,7,5%,Online,UPI
+ORD-00293,30-12-2021,C050,Neha Bansal,Austin,Texas,Central,P008,3,20%,Online,Credit Card
+ORD-00294,03-07-2024,C012,Kavya Menon,Los Angeles,California,West,P018,4,0%,Retail,UPI
+ORD-00295,17-05-2024,C054,Ishaan Verma,Seattle,Washington,West,P028,6,5%,Retail,Credit Card
+ORD-00296,04-09-2024,C100,Neha Nair,Los Angeles,California,West,P025,5,10%,Online,Credit Card
+ORD-00297,30-05-2025,C056,Rahul Iyer,Boston,Massachusetts,East,P027,6,10%,Online,UPI
+ORD-00298,24-02-2023,C055,Tanvi Patel,Boston,Massachusetts,East,P024,5,5%,Online,UPI
+ORD-00299,04-10-2025,C071,Diya Shah,Atlanta,Georgia,South,P018,1,5%,Online,UPI
+ORD-00300,02-09-2025,C008,Rohan Das,Seattle,Washington,West,P027,9,0%,Online,Credit Card
+ORD-00301,25-08-2022,C026,Sara Nair,Atlanta,Georgia,South,P012,2,20%,Retail,UPI
+ORD-00302,21-08-2024,C118,Neha Sharma,Boston,Massachusetts,East,P018,6,0%,Online,Credit Card
+ORD-00303,13-08-2024,C098,Rohan Reddy,Miami,Florida,South,P020,4,0%,Retail,UPI
+ORD-00304,14-12-2023,C101,Riya Chopra,Denver,Colorado,West,P009,9,5%,Wholesale,Credit Card
+ORD-00305,01-12-2025,C029,Aarav Menon,Denver,Colorado,West,P013,1,5%,Wholesale,Credit Card
+ORD-00306,17-06-2023,C080,Tanvi Kapoor,Denver,Colorado,West,P010,3,0%,Online,Credit Card
+ORD-00307,11-10-2022,C107,Anika Kapoor,Los Angeles,California,West,P023,2,10%,Wholesale,Credit Card
+ORD-00308,04-04-2024,C012,Kavya Menon,Los Angeles,California,West,P020,2,0%,Online,Credit Card
+ORD-00309,26-08-2021,C057,Meera Nair,Seattle,Washington,West,P007,8,5%,Online,UPI
+ORD-00310,08-05-2024,C065,Rahul Jain,Chicago,Illinois,Central,P004,2,10%,Retail,Bank Transfer
+ORD-00311,16-01-2025,C028,Kavya Saxena,Boston,Massachusetts,East,P003,1,20%,Online,Bank Transfer
+ORD-00312,17-06-2024,C077,Krish Menon,New York,New York,East,P008,5,20%,Wholesale,Bank Transfer
+ORD-00313,01-03-2021,C013,Neha Menon,Austin,Texas,Central,P024,1,15%,Retail,Credit Card
+ORD-00314,29-08-2021,C055,Tanvi Patel,Boston,Massachusetts,East,P002,10,0%,Online,Credit Card
+ORD-00315,28-03-2023,C090,Rahul Menon,Atlanta,Georgia,South,P027,1,15%,Online,Credit Card
+ORD-00316,29-09-2021,C119,Aisha Menon,Dallas,Texas,Central,P014,1,0%,Retail,Bank Transfer
+ORD-00317,06-03-2022,C085,Nikhil Patel,Miami,Florida,South,P019,3,15%,Online,UPI
+ORD-00318,13-02-2024,C109,Priya Nair,New York,New York,East,P008,9,0%,Online,Cash
+ORD-00319,06-08-2023,C055,Tanvi Patel,Boston,Massachusetts,East,P002,3,0%,Online,UPI
+ORD-00320,11-11-2021,C077,Krish Menon,New York,New York,East,P014,1,5%,Online,Credit Card
+ORD-00321,26-10-2024,C024,Aisha Chopra,San Francisco,California,West,P024,1,0%,Online,Credit Card
+ORD-00322,06-08-2021,C107,Anika Kapoor,Los Angeles,California,West,P009,7,20%,Online,UPI
+ORD-00323,16-05-2022,C011,Ishaan Rao,Austin,Texas,Central,P018,5,10%,Online,UPI
+ORD-00324,01-05-2024,C100,Neha Nair,Los Angeles,California,West,P006,3,15%,Retail,UPI
+ORD-00325,12-08-2022,C093,Aisha Iyer,Los Angeles,California,West,P013,1,10%,Online,UPI
+ORD-00326,09-05-2023,C024,Aisha Chopra,San Francisco,California,West,P015,4,5%,Online,UPI
+ORD-00327,09-11-2024,C020,Sara Gupta,Los Angeles,California,West,P018,7,0%,Online,Credit Card
+ORD-00328,30-05-2021,C005,Tanvi Yadav,Atlanta,Georgia,South,P002,6,0%,Wholesale,Cash
+ORD-00329,09-04-2023,C050,Neha Bansal,Austin,Texas,Central,P001,1,10%,Wholesale,UPI
+ORD-00330,03-07-2025,C048,Saanvi Gupta,Chicago,Illinois,Central,P007,4,15%,Online,Credit Card
+ORD-00331,24-06-2021,C026,Sara Nair,Atlanta,Georgia,South,P018,6,10%,Online,Bank Transfer
+ORD-00332,10-04-2021,C019,Varun Menon,Dallas,Texas,Central,P007,6,10%,Online,Cash
+ORD-00333,03-11-2023,C086,Rahul Saxena,Los Angeles,California,West,P018,4,0%,Retail,Cash
+ORD-00334,29-01-2022,C068,Nikhil Reddy,San Francisco,California,West,P009,2,15%,Online,Cash
+ORD-00335,29-11-2025,C094,Diya Kapoor,Boston,Massachusetts,East,P003,1,0%,Retail,Credit Card
+ORD-00336,18-10-2021,C062,Sanjay Rao,Seattle,Washington,West,P024,2,0%,Online,Cash
+ORD-00337,29-12-2025,C016,Tanvi Chopra,Chicago,Illinois,Central,P002,4,5%,Online,Credit Card
+ORD-00338,11-10-2021,C091,Riya Rao,Seattle,Washington,West,P016,1,20%,Online,Cash
+ORD-00339,22-02-2024,C090,Rahul Menon,Atlanta,Georgia,South,P009,4,0%,Online,Credit Card
+ORD-00340,15-12-2024,C094,Diya Kapoor,Boston,Massachusetts,East,P011,1,0%,Retail,UPI
+ORD-00341,09-04-2024,C036,Sara Rao,Chicago,Illinois,Central,P014,2,10%,Wholesale,UPI
+ORD-00342,15-10-2024,C047,Varun Nair,Atlanta,Georgia,South,P005,5,10%,Online,UPI
+ORD-00343,05-01-2022,C023,Varun Patel,Chicago,Illinois,Central,P007,1,0%,Online,UPI
+ORD-00344,23-09-2022,C051,Saanvi Kapoor,Miami,Florida,South,P007,4,15%,Online,Credit Card
+ORD-00345,06-05-2022,C067,Aarav Patel,Miami,Florida,South,P005,3,15%,Online,Credit Card
+ORD-00346,14-02-2022,C049,Arjun Yadav,San Francisco,California,West,P006,1,0%,Retail,Credit Card
+ORD-00347,02-03-2021,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P027,8,0%,Retail,UPI
+ORD-00348,01-10-2023,C050,Neha Bansal,Austin,Texas,Central,P026,1,0%,Online,Credit Card
+ORD-00349,14-01-2024,C056,Rahul Iyer,Boston,Massachusetts,East,P029,5,5%,Online,UPI
+ORD-00350,06-08-2024,C077,Krish Menon,New York,New York,East,P001,1,10%,Retail,Credit Card
+ORD-00351,28-06-2024,C029,Aarav Menon,Denver,Colorado,West,P002,5,10%,Retail,Bank Transfer
+ORD-00352,27-05-2023,C070,Aisha Srinivasan,Philadelphia,Pennsylvania,East,P025,4,5%,Retail,Credit Card
+ORD-00353,27-07-2021,C040,Aarav Kapoor,Chicago,Illinois,Central,P012,5,10%,Online,UPI
+ORD-00354,06-02-2021,C118,Neha Sharma,Boston,Massachusetts,East,P007,4,5%,Online,Cash
+ORD-00355,10-08-2025,C013,Neha Menon,Austin,Texas,Central,P008,4,0%,Online,Credit Card
+ORD-00356,21-03-2025,C086,Rahul Saxena,Los Angeles,California,West,P009,4,5%,Retail,Credit Card
+ORD-00357,12-02-2021,C114,Aarav Das,Denver,Colorado,West,P010,2,0%,Online,Credit Card
+ORD-00358,19-09-2023,C109,Priya Nair,New York,New York,East,P010,2,0%,Retail,Credit Card
+ORD-00359,09-02-2024,C029,Aarav Menon,Denver,Colorado,West,P014,4,0%,Online,Credit Card
+ORD-00360,29-08-2022,C093,Aisha Iyer,Los Angeles,California,West,P009,3,0%,Online,Credit Card
+ORD-00361,27-07-2023,C083,Aarav Bansal,Denver,Colorado,West,P024,6,5%,Online,Credit Card
+ORD-00362,31-03-2022,C105,Tanvi Das,Seattle,Washington,West,P019,5,0%,Retail,Bank Transfer
+ORD-00363,03-12-2025,C088,Kavya Reddy,Los Angeles,California,West,P025,2,5%,Wholesale,Credit Card
+ORD-00364,05-04-2025,C085,Nikhil Patel,Miami,Florida,South,P024,2,5%,Online,Credit Card
+ORD-00365,17-01-2022,C029,Aarav Menon,Denver,Colorado,West,P025,1,5%,Retail,UPI
+ORD-00366,08-04-2024,C036,Sara Rao,Chicago,Illinois,Central,P012,2,0%,Retail,UPI
+ORD-00367,22-09-2023,C110,Saanvi Reddy,Austin,Texas,Central,P004,2,0%,Retail,Credit Card
+ORD-00368,19-08-2024,C035,Arjun Shah,Atlanta,Georgia,South,P009,5,5%,Online,UPI
+ORD-00369,02-04-2021,C047,Varun Nair,Atlanta,Georgia,South,P024,6,0%,Retail,UPI
+ORD-00370,27-07-2025,C054,Ishaan Verma,Seattle,Washington,West,P018,7,0%,Retail,Credit Card
+ORD-00371,04-03-2021,C059,Rahul Das,Philadelphia,Pennsylvania,East,P014,1,5%,Online,Credit Card
+ORD-00372,19-01-2025,C015,Krish Saxena,Seattle,Washington,West,P007,10,10%,Online,UPI
+ORD-00373,26-07-2024,C072,Anika Sharma,Dallas,Texas,Central,P018,8,0%,Online,Credit Card
+ORD-00374,05-03-2021,C109,Priya Nair,New York,New York,East,P028,8,10%,Online,Bank Transfer
+ORD-00375,24-02-2023,C040,Aarav Kapoor,Chicago,Illinois,Central,P009,1,5%,Retail,Bank Transfer
+ORD-00376,04-11-2024,C078,Aisha Singh,Austin,Texas,Central,P003,2,0%,Wholesale,Bank Transfer
+ORD-00377,29-06-2021,C015,Krish Saxena,Seattle,Washington,West,P007,1,10%,Wholesale,Credit Card
+ORD-00378,12-09-2022,C078,Aisha Singh,Austin,Texas,Central,P019,9,15%,Online,Credit Card
+ORD-00379,11-04-2024,C029,Aarav Menon,Denver,Colorado,West,P018,10,0%,Retail,Bank Transfer
+ORD-00380,23-03-2022,C021,Nikhil Rao,Denver,Colorado,West,P017,6,0%,Online,UPI
+ORD-00381,30-12-2024,C056,Rahul Iyer,Boston,Massachusetts,East,P001,1,5%,Wholesale,UPI
+ORD-00382,13-02-2021,C112,Rahul Agarwal,New York,New York,East,P027,10,10%,Retail,Credit Card
+ORD-00383,10-12-2023,C072,Anika Sharma,Dallas,Texas,Central,P029,10,15%,Online,UPI
+ORD-00384,09-12-2023,C100,Neha Nair,Los Angeles,California,West,P020,2,0%,Online,UPI
+ORD-00385,19-03-2021,C104,Priya Kapoor,Boston,Massachusetts,East,P004,2,10%,Online,Bank Transfer
+ORD-00386,03-09-2022,C098,Rohan Reddy,Miami,Florida,South,P010,3,0%,Online,Credit Card
+ORD-00387,17-12-2022,C075,Rahul Bansal,Dallas,Texas,Central,P014,1,5%,Online,Cash
+ORD-00388,27-09-2024,C106,Saanvi Bansal,Boston,Massachusetts,East,P018,4,15%,Online,Bank Transfer
+ORD-00389,17-08-2025,C056,Rahul Iyer,Boston,Massachusetts,East,P014,2,10%,Retail,Credit Card
+ORD-00390,31-10-2025,C045,Ishaan Gupta,Seattle,Washington,West,P001,1,0%,Retail,Bank Transfer
+ORD-00391,15-06-2023,C021,Nikhil Rao,Denver,Colorado,West,P024,2,0%,Online,Bank Transfer
+ORD-00392,01-12-2025,C075,Rahul Bansal,Dallas,Texas,Central,P002,6,0%,Online,UPI
+ORD-00393,22-12-2021,C009,Anika Singh,Philadelphia,Pennsylvania,East,P007,1,0%,Online,UPI
+ORD-00394,01-02-2022,C051,Saanvi Kapoor,Miami,Florida,South,P009,7,0%,Wholesale,Bank Transfer
+ORD-00395,20-06-2024,C098,Rohan Reddy,Miami,Florida,South,P014,2,5%,Online,UPI
+ORD-00396,05-03-2024,C006,Nikhil Gupta,San Francisco,California,West,P009,2,10%,Online,UPI
+ORD-00397,30-11-2021,C055,Tanvi Patel,Boston,Massachusetts,East,P025,1,10%,Online,Credit Card
+ORD-00398,26-01-2024,C045,Ishaan Gupta,Seattle,Washington,West,P019,6,5%,Wholesale,Cash
+ORD-00399,19-12-2021,C012,Kavya Menon,Los Angeles,California,West,P030,4,0%,Online,Credit Card
+ORD-00400,27-08-2025,C005,Tanvi Yadav,Atlanta,Georgia,South,P028,5,15%,Online,Credit Card
+ORD-00401,26-08-2022,C024,Aisha Chopra,San Francisco,California,West,P007,1,10%,Online,UPI
+ORD-00402,20-06-2022,C081,Varun Srinivasan,New York,New York,East,P008,2,5%,Retail,Bank Transfer
+ORD-00403,16-10-2022,C071,Diya Shah,Atlanta,Georgia,South,P003,1,0%,Online,Credit Card
+ORD-00404,06-07-2025,C093,Aisha Iyer,Los Angeles,California,West,P006,3,10%,Online,UPI
+ORD-00405,16-01-2025,C093,Aisha Iyer,Los Angeles,California,West,P003,6,0%,Retail,Credit Card
+ORD-00406,29-03-2025,C038,Priya Reddy,Denver,Colorado,West,P005,4,0%,Wholesale,Bank Transfer
+ORD-00407,24-10-2024,C092,Arjun Menon,Atlanta,Georgia,South,P022,1,0%,Retail,Bank Transfer
+ORD-00408,21-09-2024,C080,Tanvi Kapoor,Denver,Colorado,West,P026,4,15%,Retail,Credit Card
+ORD-00409,05-05-2022,C055,Tanvi Patel,Boston,Massachusetts,East,P027,6,20%,Retail,UPI
+ORD-00410,01-08-2023,C035,Arjun Shah,Atlanta,Georgia,South,P023,1,5%,Online,Credit Card
+ORD-00411,07-01-2021,C073,Arjun Iyer,Miami,Florida,South,P004,3,15%,Retail,UPI
+ORD-00412,13-12-2024,C040,Aarav Kapoor,Chicago,Illinois,Central,P003,2,0%,Online,Bank Transfer
+ORD-00413,27-12-2023,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P004,2,0%,Online,Cash
+ORD-00414,15-03-2024,C098,Rohan Reddy,Miami,Florida,South,P019,9,10%,Wholesale,Bank Transfer
+ORD-00415,31-08-2022,C024,Aisha Chopra,San Francisco,California,West,P003,4,0%,Online,UPI
+ORD-00416,14-08-2024,C024,Aisha Chopra,San Francisco,California,West,P027,4,0%,Online,Cash
+ORD-00417,25-11-2025,C109,Priya Nair,New York,New York,East,P020,6,0%,Retail,Credit Card
+ORD-00418,15-07-2022,C047,Varun Nair,Atlanta,Georgia,South,P008,3,20%,Online,Bank Transfer
+ORD-00419,22-05-2022,C109,Priya Nair,New York,New York,East,P028,7,15%,Online,Credit Card
+ORD-00420,23-03-2025,C074,Nikhil Das,Chicago,Illinois,Central,P016,2,0%,Wholesale,Credit Card
+ORD-00421,25-08-2023,C074,Nikhil Das,Chicago,Illinois,Central,P011,1,5%,Online,Bank Transfer
+ORD-00422,11-10-2022,C046,Aarav Rao,Dallas,Texas,Central,P002,2,0%,Online,Credit Card
+ORD-00423,07-09-2024,C038,Priya Reddy,Denver,Colorado,West,P010,1,0%,Online,Credit Card
+ORD-00424,12-10-2021,C063,Diya Sharma,Boston,Massachusetts,East,P008,2,10%,Online,UPI
+ORD-00425,05-04-2024,C084,Sara Srinivasan,Los Angeles,California,West,P030,5,5%,Online,UPI
+ORD-00426,12-06-2024,C105,Tanvi Das,Seattle,Washington,West,P023,2,10%,Online,Credit Card
+ORD-00427,12-12-2025,C086,Rahul Saxena,Los Angeles,California,West,P014,2,15%,Retail,Bank Transfer
+ORD-00428,05-04-2022,C072,Anika Sharma,Dallas,Texas,Central,P030,3,0%,Online,UPI
+ORD-00429,12-09-2025,C116,Anika Bansal,Los Angeles,California,West,P002,6,15%,Online,Cash
+ORD-00430,15-12-2023,C103,Neha Srinivasan,Atlanta,Georgia,South,P007,9,5%,Online,Bank Transfer
+ORD-00431,01-02-2024,C006,Nikhil Gupta,San Francisco,California,West,P002,8,20%,Online,Cash
+ORD-00432,22-03-2022,C090,Rahul Menon,Atlanta,Georgia,South,P018,6,10%,Online,Credit Card
+ORD-00433,02-08-2023,C041,Anika Agarwal,Seattle,Washington,West,P030,5,15%,Retail,Credit Card
+ORD-00434,15-09-2023,C024,Aisha Chopra,San Francisco,California,West,P007,4,0%,Online,Bank Transfer
+ORD-00435,22-03-2025,C109,Priya Nair,New York,New York,East,P015,2,0%,Online,UPI
+ORD-00436,14-09-2025,C028,Kavya Saxena,Boston,Massachusetts,East,P019,2,0%,Online,Credit Card
+ORD-00437,24-10-2023,C087,Sara Saxena,San Francisco,California,West,P003,6,5%,Online,Bank Transfer
+ORD-00438,26-07-2025,C051,Saanvi Kapoor,Miami,Florida,South,P003,1,5%,Online,UPI
+ORD-00439,10-04-2022,C120,Sanjay Saxena,Austin,Texas,Central,P004,1,5%,Online,Bank Transfer
+ORD-00440,11-08-2025,C006,Nikhil Gupta,San Francisco,California,West,P006,3,15%,Retail,Bank Transfer
+ORD-00441,02-11-2022,C093,Aisha Iyer,Los Angeles,California,West,P004,2,0%,Retail,Credit Card
+ORD-00442,21-11-2025,C080,Tanvi Kapoor,Denver,Colorado,West,P009,5,15%,Online,UPI
+ORD-00443,11-07-2021,C026,Sara Nair,Atlanta,Georgia,South,P009,6,0%,Retail,Credit Card
+ORD-00444,17-09-2024,C024,Aisha Chopra,San Francisco,California,West,P018,4,5%,Wholesale,Credit Card
+ORD-00445,13-09-2023,C033,Neha Rao,Atlanta,Georgia,South,P018,8,0%,Online,Credit Card
+ORD-00446,25-01-2021,C054,Ishaan Verma,Seattle,Washington,West,P018,6,20%,Online,Bank Transfer
+ORD-00447,19-04-2021,C022,Krish Singh,Chicago,Illinois,Central,P007,2,0%,Online,UPI
+ORD-00448,21-10-2021,C071,Diya Shah,Atlanta,Georgia,South,P007,4,5%,Online,Credit Card
+ORD-00449,07-07-2025,C028,Kavya Saxena,Boston,Massachusetts,East,P002,2,10%,Retail,Credit Card
+ORD-00450,19-01-2025,C060,Sara Chopra,Atlanta,Georgia,South,P008,8,5%,Online,UPI
+ORD-00451,27-05-2021,C069,Anika Das,Seattle,Washington,West,P018,9,10%,Wholesale,Bank Transfer
+ORD-00452,03-03-2024,C028,Kavya Saxena,Boston,Massachusetts,East,P006,2,0%,Online,UPI
+ORD-00453,05-10-2024,C017,Kavya Yadav,Boston,Massachusetts,East,P017,2,5%,Online,Credit Card
+ORD-00454,01-10-2023,C096,Neha Agarwal,San Francisco,California,West,P007,1,5%,Online,Credit Card
+ORD-00455,10-10-2025,C091,Riya Rao,Seattle,Washington,West,P028,5,5%,Online,UPI
+ORD-00456,05-08-2025,C111,Rohan Rao,San Francisco,California,West,P027,5,5%,Online,UPI
+ORD-00457,27-07-2024,C096,Neha Agarwal,San Francisco,California,West,P015,2,15%,Online,Credit Card
+ORD-00458,10-04-2025,C040,Aarav Kapoor,Chicago,Illinois,Central,P012,3,0%,Online,Credit Card
+ORD-00459,03-08-2022,C073,Arjun Iyer,Miami,Florida,South,P003,2,0%,Online,Credit Card
+ORD-00460,14-01-2023,C085,Nikhil Patel,Miami,Florida,South,P011,1,0%,Online,Cash
+ORD-00461,06-05-2022,C017,Kavya Yadav,Boston,Massachusetts,East,P015,2,5%,Online,Credit Card
+ORD-00462,25-12-2025,C033,Neha Rao,Atlanta,Georgia,South,P024,6,0%,Retail,UPI
+ORD-00463,26-03-2021,C077,Krish Menon,New York,New York,East,P003,1,5%,Online,Credit Card
+ORD-00464,11-06-2025,C070,Aisha Srinivasan,Philadelphia,Pennsylvania,East,P006,3,5%,Online,Bank Transfer
+ORD-00465,30-01-2021,C066,Saanvi Shah,Boston,Massachusetts,East,P027,7,0%,Online,Bank Transfer
+ORD-00466,13-01-2022,C040,Aarav Kapoor,Chicago,Illinois,Central,P022,1,20%,Online,UPI
+ORD-00467,30-12-2023,C046,Aarav Rao,Dallas,Texas,Central,P009,6,5%,Retail,Bank Transfer
+ORD-00468,10-07-2022,C113,Anika Saxena,Atlanta,Georgia,South,P002,4,10%,Online,UPI
+ORD-00469,20-03-2023,C096,Neha Agarwal,San Francisco,California,West,P008,2,0%,Online,UPI
+ORD-00470,02-03-2022,C054,Ishaan Verma,Seattle,Washington,West,P024,1,5%,Online,Credit Card
+ORD-00471,17-03-2025,C046,Aarav Rao,Dallas,Texas,Central,P025,4,15%,Retail,Cash
+ORD-00472,19-08-2023,C011,Ishaan Rao,Austin,Texas,Central,P002,4,5%,Online,Bank Transfer
+ORD-00473,19-04-2023,C086,Rahul Saxena,Los Angeles,California,West,P008,9,20%,Retail,UPI
+ORD-00474,15-10-2022,C009,Anika Singh,Philadelphia,Pennsylvania,East,P023,1,5%,Retail,Cash
+ORD-00475,29-10-2022,C059,Rahul Das,Philadelphia,Pennsylvania,East,P017,3,0%,Online,Bank Transfer
+ORD-00476,25-05-2025,C054,Ishaan Verma,Seattle,Washington,West,P027,5,5%,Online,Cash
+ORD-00477,10-01-2024,C074,Nikhil Das,Chicago,Illinois,Central,P021,3,5%,Retail,Credit Card
+ORD-00478,10-11-2022,C038,Priya Reddy,Denver,Colorado,West,P014,1,20%,Online,Bank Transfer
+ORD-00479,16-06-2022,C011,Ishaan Rao,Austin,Texas,Central,P002,8,0%,Retail,Bank Transfer
+ORD-00480,24-06-2024,C050,Neha Bansal,Austin,Texas,Central,P015,1,0%,Online,UPI
+ORD-00481,15-04-2023,C046,Aarav Rao,Dallas,Texas,Central,P008,8,10%,Wholesale,Cash
+ORD-00482,28-05-2022,C103,Neha Srinivasan,Atlanta,Georgia,South,P009,4,15%,Online,Credit Card
+ORD-00483,04-08-2021,C090,Rahul Menon,Atlanta,Georgia,South,P021,2,0%,Wholesale,UPI
+ORD-00484,05-08-2025,C103,Neha Srinivasan,Atlanta,Georgia,South,P024,5,0%,Wholesale,UPI
+ORD-00485,24-06-2025,C012,Kavya Menon,Los Angeles,California,West,P008,5,0%,Retail,Bank Transfer
+ORD-00486,03-01-2022,C119,Aisha Menon,Dallas,Texas,Central,P027,1,5%,Retail,UPI
+ORD-00487,03-05-2022,C038,Priya Reddy,Denver,Colorado,West,P006,2,0%,Online,Cash
+ORD-00488,13-11-2024,C065,Rahul Jain,Chicago,Illinois,Central,P003,3,5%,Online,Credit Card
+ORD-00489,13-08-2023,C120,Sanjay Saxena,Austin,Texas,Central,P009,10,20%,Retail,Credit Card
+ORD-00490,10-02-2021,C005,Tanvi Yadav,Atlanta,Georgia,South,P028,4,15%,Online,Credit Card
+ORD-00491,14-09-2025,C072,Anika Sharma,Dallas,Texas,Central,P003,2,15%,Online,Credit Card
+ORD-00492,27-10-2024,C079,Arjun Bansal,Boston,Massachusetts,East,P008,1,15%,Online,Credit Card
+ORD-00493,25-02-2025,C078,Aisha Singh,Austin,Texas,Central,P008,4,0%,Wholesale,Credit Card
+ORD-00494,17-03-2025,C051,Saanvi Kapoor,Miami,Florida,South,P030,4,10%,Online,Credit Card
+ORD-00495,04-08-2023,C086,Rahul Saxena,Los Angeles,California,West,P003,1,15%,Retail,UPI
+ORD-00496,15-05-2023,C028,Kavya Saxena,Boston,Massachusetts,East,P029,8,15%,Wholesale,Credit Card
+ORD-00497,03-12-2023,C114,Aarav Das,Denver,Colorado,West,P022,1,15%,Online,Credit Card
+ORD-00498,12-12-2025,C042,Varun Rao,Austin,Texas,Central,P008,1,0%,Retail,UPI
+ORD-00499,23-02-2024,C095,Sara Shah,New York,New York,East,P004,2,10%,Retail,UPI
+ORD-00500,12-10-2021,C060,Sara Chopra,Atlanta,Georgia,South,P018,5,0%,Online,Credit Card
+ORD-00501,12-01-2022,C013,Neha Menon,Austin,Texas,Central,P002,6,10%,Online,UPI
+ORD-00502,02-10-2023,C080,Tanvi Kapoor,Denver,Colorado,West,P002,10,0%,Retail,Credit Card
+ORD-00503,13-12-2021,C012,Kavya Menon,Los Angeles,California,West,P025,2,10%,Retail,Credit Card
+ORD-00504,09-11-2023,C096,Neha Agarwal,San Francisco,California,West,P006,4,15%,Online,Credit Card
+ORD-00505,17-10-2025,C042,Varun Rao,Austin,Texas,Central,P002,3,5%,Online,Bank Transfer
+ORD-00506,16-05-2025,C102,Neha Gupta,San Francisco,California,West,P005,4,0%,Wholesale,Cash
+ORD-00507,15-03-2024,C092,Arjun Menon,Atlanta,Georgia,South,P021,1,0%,Wholesale,Cash
+ORD-00508,11-01-2022,C063,Diya Sharma,Boston,Massachusetts,East,P002,4,5%,Retail,UPI
+ORD-00509,18-11-2021,C096,Neha Agarwal,San Francisco,California,West,P019,1,5%,Online,Bank Transfer
+ORD-00510,22-01-2022,C105,Tanvi Das,Seattle,Washington,West,P010,4,0%,Online,Bank Transfer
+ORD-00511,07-11-2023,C050,Neha Bansal,Austin,Texas,Central,P029,1,10%,Online,Credit Card
+ORD-00512,31-08-2022,C087,Sara Saxena,San Francisco,California,West,P010,1,20%,Retail,Credit Card
+ORD-00513,12-03-2024,C052,Aarav Singh,Austin,Texas,Central,P027,3,10%,Online,UPI
+ORD-00514,30-04-2021,C098,Rohan Reddy,Miami,Florida,South,P002,8,5%,Online,Credit Card
+ORD-00515,02-08-2025,C071,Diya Shah,Atlanta,Georgia,South,P008,2,0%,Retail,Bank Transfer
+ORD-00516,14-02-2022,C033,Neha Rao,Atlanta,Georgia,South,P024,4,5%,Online,Credit Card
+ORD-00517,29-04-2024,C006,Nikhil Gupta,San Francisco,California,West,P002,1,0%,Retail,Cash
+ORD-00518,22-01-2025,C006,Nikhil Gupta,San Francisco,California,West,P018,5,0%,Online,UPI
+ORD-00519,11-08-2022,C026,Sara Nair,Atlanta,Georgia,South,P025,3,5%,Wholesale,Credit Card
+ORD-00520,28-08-2024,C075,Rahul Bansal,Dallas,Texas,Central,P001,1,0%,Online,Bank Transfer
+ORD-00521,29-07-2023,C073,Arjun Iyer,Miami,Florida,South,P030,5,0%,Wholesale,Credit Card
+ORD-00522,30-12-2021,C098,Rohan Reddy,Miami,Florida,South,P017,4,10%,Wholesale,Credit Card
+ORD-00523,27-09-2023,C070,Aisha Srinivasan,Philadelphia,Pennsylvania,East,P005,1,5%,Online,Credit Card
+ORD-00524,12-12-2024,C104,Priya Kapoor,Boston,Massachusetts,East,P003,5,0%,Wholesale,Credit Card
+ORD-00525,27-06-2021,C086,Rahul Saxena,Los Angeles,California,West,P026,1,10%,Online,UPI
+ORD-00526,01-06-2025,C032,Priya Gupta,Seattle,Washington,West,P017,1,0%,Online,UPI
+ORD-00527,17-06-2021,C054,Ishaan Verma,Seattle,Washington,West,P007,8,10%,Online,Credit Card
+ORD-00528,20-09-2022,C105,Tanvi Das,Seattle,Washington,West,P003,1,0%,Wholesale,Credit Card
+ORD-00529,06-04-2021,C107,Anika Kapoor,Los Angeles,California,West,P025,3,0%,Online,Credit Card
+ORD-00530,07-12-2024,C050,Neha Bansal,Austin,Texas,Central,P030,3,0%,Online,Credit Card
+ORD-00531,20-06-2022,C068,Nikhil Reddy,San Francisco,California,West,P025,2,10%,Online,Bank Transfer
+ORD-00532,12-08-2021,C105,Tanvi Das,Seattle,Washington,West,P008,9,0%,Retail,UPI
+ORD-00533,03-09-2023,C080,Tanvi Kapoor,Denver,Colorado,West,P002,3,0%,Retail,Credit Card
+ORD-00534,05-12-2023,C096,Neha Agarwal,San Francisco,California,West,P008,5,0%,Wholesale,Credit Card
+ORD-00535,19-06-2022,C100,Neha Nair,Los Angeles,California,West,P011,1,5%,Online,Credit Card
+ORD-00536,02-04-2025,C062,Sanjay Rao,Seattle,Washington,West,P005,4,0%,Online,Credit Card
+ORD-00537,04-09-2024,C055,Tanvi Patel,Boston,Massachusetts,East,P008,5,15%,Online,UPI
+ORD-00538,12-02-2024,C046,Aarav Rao,Dallas,Texas,Central,P013,2,20%,Wholesale,Cash
+ORD-00539,11-03-2025,C044,Riya Jain,Boston,Massachusetts,East,P028,2,10%,Retail,Credit Card
+ORD-00540,07-10-2023,C045,Ishaan Gupta,Seattle,Washington,West,P005,4,0%,Retail,Credit Card
+ORD-00541,31-03-2021,C100,Neha Nair,Los Angeles,California,West,P018,2,15%,Retail,Credit Card
+ORD-00542,04-02-2024,C033,Neha Rao,Atlanta,Georgia,South,P007,1,10%,Wholesale,UPI
+ORD-00543,05-09-2023,C043,Rohan Srinivasan,Philadelphia,Pennsylvania,East,P002,6,5%,Online,UPI
+ORD-00544,27-04-2023,C041,Anika Agarwal,Seattle,Washington,West,P003,4,10%,Retail,UPI
+ORD-00545,14-02-2022,C002,Riya Shah,Austin,Texas,Central,P009,6,0%,Retail,Cash
+ORD-00546,26-11-2022,C018,Meera Rao,New York,New York,East,P019,1,15%,Online,Credit Card
+ORD-00547,17-03-2021,C028,Kavya Saxena,Boston,Massachusetts,East,P014,1,5%,Online,Cash
+ORD-00548,14-07-2022,C008,Rohan Das,Seattle,Washington,West,P021,1,15%,Online,Credit Card
+ORD-00549,20-10-2023,C113,Anika Saxena,Atlanta,Georgia,South,P018,6,0%,Online,Credit Card
+ORD-00550,15-03-2025,C040,Aarav Kapoor,Chicago,Illinois,Central,P004,1,5%,Online,Credit Card
+ORD-00551,10-12-2024,C017,Kavya Yadav,Boston,Massachusetts,East,P016,2,0%,Wholesale,Credit Card
+ORD-00552,22-09-2025,C008,Rohan Das,Seattle,Washington,West,P018,7,5%,Online,UPI
+ORD-00553,08-11-2023,C095,Sara Shah,New York,New York,East,P029,8,0%,Online,Credit Card
+ORD-00554,10-12-2023,C052,Aarav Singh,Austin,Texas,Central,P003,4,20%,Retail,Credit Card
+ORD-00555,12-03-2021,C080,Tanvi Kapoor,Denver,Colorado,West,P027,4,5%,Online,Bank Transfer
+ORD-00556,21-09-2025,C004,Aarav Shah,Chicago,Illinois,Central,P005,6,5%,Wholesale,Credit Card
+ORD-00557,31-12-2021,C084,Sara Srinivasan,Los Angeles,California,West,P017,1,5%,Retail,Credit Card
+ORD-00558,08-11-2025,C092,Arjun Menon,Atlanta,Georgia,South,P015,1,5%,Online,Credit Card
+ORD-00559,02-02-2024,C089,Arjun Jain,Austin,Texas,Central,P002,4,0%,Retail,Credit Card
+ORD-00560,19-01-2025,C037,Kavya Srinivasan,Los Angeles,California,West,P006,1,5%,Online,Credit Card
+ORD-00561,01-03-2025,C024,Aisha Chopra,San Francisco,California,West,P003,1,10%,Wholesale,Credit Card
+ORD-00562,06-05-2023,C028,Kavya Saxena,Boston,Massachusetts,East,P003,6,0%,Retail,Cash
+ORD-00563,08-07-2021,C091,Riya Rao,Seattle,Washington,West,P002,5,10%,Online,Credit Card
+ORD-00564,12-06-2025,C090,Rahul Menon,Atlanta,Georgia,South,P011,2,0%,Retail,Credit Card
+ORD-00565,29-12-2023,C007,Saanvi Yadav,Denver,Colorado,West,P001,1,10%,Online,UPI
+ORD-00566,18-11-2023,C047,Varun Nair,Atlanta,Georgia,South,P028,9,15%,Online,Credit Card
+ORD-00567,21-11-2021,C008,Rohan Das,Seattle,Washington,West,P004,1,20%,Online,Credit Card
+ORD-00568,27-09-2022,C092,Arjun Menon,Atlanta,Georgia,South,P024,4,0%,Online,Credit Card
+ORD-00569,10-06-2023,C043,Rohan Srinivasan,Philadelphia,Pennsylvania,East,P009,5,20%,Online,UPI
+ORD-00570,03-02-2024,C042,Varun Rao,Austin,Texas,Central,P027,7,20%,Online,Cash
+ORD-00571,22-04-2022,C039,Priya Rao,Miami,Florida,South,P007,4,0%,Online,UPI
+ORD-00572,06-09-2022,C065,Rahul Jain,Chicago,Illinois,Central,P011,1,10%,Retail,Credit Card
+ORD-00573,26-01-2021,C046,Aarav Rao,Dallas,Texas,Central,P027,7,5%,Wholesale,Bank Transfer
+ORD-00574,26-01-2025,C027,Anika Iyer,Denver,Colorado,West,P022,1,10%,Retail,Credit Card
+ORD-00575,17-02-2024,C088,Kavya Reddy,Los Angeles,California,West,P010,2,0%,Online,UPI
+ORD-00576,30-07-2025,C005,Tanvi Yadav,Atlanta,Georgia,South,P007,3,10%,Retail,Credit Card
+ORD-00577,05-06-2025,C100,Neha Nair,Los Angeles,California,West,P019,2,0%,Retail,Bank Transfer
+ORD-00578,20-08-2022,C081,Varun Srinivasan,New York,New York,East,P016,3,0%,Online,UPI
+ORD-00579,06-03-2023,C034,Krish Das,New York,New York,East,P002,3,5%,Retail,Credit Card
+ORD-00580,29-04-2023,C077,Krish Menon,New York,New York,East,P005,5,0%,Online,Credit Card
+ORD-00581,22-09-2021,C040,Aarav Kapoor,Chicago,Illinois,Central,P002,2,10%,Retail,Credit Card
+ORD-00582,26-04-2023,C070,Aisha Srinivasan,Philadelphia,Pennsylvania,East,P012,5,10%,Online,UPI
+ORD-00583,18-10-2025,C097,Aarav Srinivasan,Seattle,Washington,West,P003,4,15%,Online,UPI
+ORD-00584,26-12-2023,C015,Krish Saxena,Seattle,Washington,West,P006,1,0%,Online,Bank Transfer
+ORD-00585,27-09-2022,C009,Anika Singh,Philadelphia,Pennsylvania,East,P012,1,0%,Wholesale,UPI
+ORD-00586,02-08-2022,C005,Tanvi Yadav,Atlanta,Georgia,South,P010,1,15%,Online,UPI
+ORD-00587,30-12-2023,C024,Aisha Chopra,San Francisco,California,West,P011,1,0%,Online,Credit Card
+ORD-00588,11-09-2021,C042,Varun Rao,Austin,Texas,Central,P019,10,0%,Retail,UPI
+ORD-00589,27-11-2023,C075,Rahul Bansal,Dallas,Texas,Central,P003,2,0%,Online,Bank Transfer
+ORD-00590,15-06-2021,C100,Neha Nair,Los Angeles,California,West,P029,3,0%,Online,Credit Card
+ORD-00591,08-02-2024,C058,Rohan Jain,New York,New York,East,P008,3,5%,Retail,Credit Card
+ORD-00592,28-02-2024,C073,Arjun Iyer,Miami,Florida,South,P010,1,0%,Online,Credit Card
+ORD-00593,10-09-2025,C107,Anika Kapoor,Los Angeles,California,West,P021,2,0%,Wholesale,Credit Card
+ORD-00594,12-02-2024,C087,Sara Saxena,San Francisco,California,West,P002,9,0%,Online,Credit Card
+ORD-00595,02-01-2023,C092,Arjun Menon,Atlanta,Georgia,South,P025,3,10%,Online,UPI
+ORD-00596,24-10-2023,C059,Rahul Das,Philadelphia,Pennsylvania,East,P008,9,15%,Online,UPI
+ORD-00597,21-06-2025,C075,Rahul Bansal,Dallas,Texas,Central,P022,1,10%,Retail,UPI
+ORD-00598,27-11-2023,C046,Aarav Rao,Dallas,Texas,Central,P030,5,5%,Retail,Bank Transfer
+ORD-00599,03-04-2024,C007,Saanvi Yadav,Denver,Colorado,West,P007,4,10%,Online,Credit Card
+ORD-00600,18-01-2025,C084,Sara Srinivasan,Los Angeles,California,West,P003,1,0%,Online,UPI
+ORD-00601,09-10-2023,C110,Saanvi Reddy,Austin,Texas,Central,P002,8,10%,Online,Credit Card
+ORD-00602,12-02-2024,C058,Rohan Jain,New York,New York,East,P007,3,20%,Retail,Credit Card
+ORD-00603,08-08-2022,C078,Aisha Singh,Austin,Texas,Central,P025,6,5%,Online,Credit Card
+ORD-00604,08-03-2024,C007,Saanvi Yadav,Denver,Colorado,West,P026,3,15%,Online,Credit Card
+ORD-00605,07-12-2024,C106,Saanvi Bansal,Boston,Massachusetts,East,P021,1,0%,Online,UPI
+ORD-00606,03-04-2025,C058,Rohan Jain,New York,New York,East,P001,1,5%,Wholesale,Credit Card
+ORD-00607,29-06-2022,C078,Aisha Singh,Austin,Texas,Central,P018,6,15%,Retail,Bank Transfer
+ORD-00608,25-10-2021,C060,Sara Chopra,Atlanta,Georgia,South,P008,2,0%,Online,Credit Card
+ORD-00609,06-12-2021,C078,Aisha Singh,Austin,Texas,Central,P008,5,10%,Retail,Credit Card
+ORD-00610,14-09-2022,C001,Ishaan Agarwal,Atlanta,Georgia,South,P007,8,5%,Retail,Bank Transfer
+ORD-00611,22-06-2022,C020,Sara Gupta,Los Angeles,California,West,P005,1,10%,Retail,UPI
+ORD-00612,19-03-2024,C017,Kavya Yadav,Boston,Massachusetts,East,P001,1,5%,Wholesale,UPI
+ORD-00613,25-02-2025,C021,Nikhil Rao,Denver,Colorado,West,P018,1,0%,Online,Credit Card
+ORD-00614,18-05-2024,C004,Aarav Shah,Chicago,Illinois,Central,P009,1,0%,Online,UPI
+ORD-00615,17-01-2021,C042,Varun Rao,Austin,Texas,Central,P030,1,10%,Online,Credit Card
+ORD-00616,06-09-2021,C071,Diya Shah,Atlanta,Georgia,South,P016,3,0%,Online,UPI
+ORD-00617,20-11-2023,C059,Rahul Das,Philadelphia,Pennsylvania,East,P015,6,0%,Retail,Credit Card
+ORD-00618,07-01-2021,C120,Sanjay Saxena,Austin,Texas,Central,P008,4,10%,Online,Credit Card
+ORD-00619,22-08-2025,C056,Rahul Iyer,Boston,Massachusetts,East,P006,1,5%,Retail,Credit Card
+ORD-00620,12-02-2023,C034,Krish Das,New York,New York,East,P005,6,5%,Wholesale,UPI
+ORD-00621,17-05-2025,C042,Varun Rao,Austin,Texas,Central,P007,3,15%,Retail,Bank Transfer
+ORD-00622,16-03-2021,C036,Sara Rao,Chicago,Illinois,Central,P008,10,10%,Retail,Credit Card
+ORD-00623,30-04-2023,C085,Nikhil Patel,Miami,Florida,South,P010,2,10%,Online,Credit Card
+ORD-00624,11-10-2022,C058,Rohan Jain,New York,New York,East,P014,2,0%,Wholesale,UPI
+ORD-00625,27-02-2021,C073,Arjun Iyer,Miami,Florida,South,P004,1,10%,Online,Credit Card
+ORD-00626,25-02-2022,C024,Aisha Chopra,San Francisco,California,West,P026,1,5%,Online,Credit Card
+ORD-00627,01-08-2021,C018,Meera Rao,New York,New York,East,P016,1,0%,Retail,UPI
+ORD-00628,15-04-2021,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P028,7,5%,Online,Credit Card
+ORD-00629,14-02-2022,C100,Neha Nair,Los Angeles,California,West,P030,5,0%,Retail,UPI
+ORD-00630,27-01-2025,C026,Sara Nair,Atlanta,Georgia,South,P013,3,10%,Retail,Bank Transfer
+ORD-00631,07-04-2021,C062,Sanjay Rao,Seattle,Washington,West,P007,7,0%,Retail,UPI
+ORD-00632,28-04-2024,C091,Riya Rao,Seattle,Washington,West,P026,2,10%,Online,Cash
+ORD-00633,14-12-2023,C026,Sara Nair,Atlanta,Georgia,South,P017,1,10%,Retail,Credit Card
+ORD-00634,25-04-2025,C046,Aarav Rao,Dallas,Texas,Central,P003,2,0%,Wholesale,Bank Transfer
+ORD-00635,06-04-2022,C109,Priya Nair,New York,New York,East,P002,1,5%,Retail,Bank Transfer
+ORD-00636,27-12-2022,C038,Priya Reddy,Denver,Colorado,West,P028,10,0%,Online,UPI
+ORD-00637,20-11-2021,C038,Priya Reddy,Denver,Colorado,West,P022,2,0%,Retail,UPI
+ORD-00638,15-10-2022,C068,Nikhil Reddy,San Francisco,California,West,P004,1,0%,Retail,Cash
+ORD-00639,04-10-2024,C055,Tanvi Patel,Boston,Massachusetts,East,P011,2,0%,Online,Credit Card
+ORD-00640,29-05-2021,C091,Riya Rao,Seattle,Washington,West,P015,6,0%,Online,Bank Transfer
+ORD-00641,18-07-2025,C078,Aisha Singh,Austin,Texas,Central,P015,1,5%,Online,Bank Transfer
+ORD-00642,16-07-2022,C103,Neha Srinivasan,Atlanta,Georgia,South,P007,7,20%,Retail,Credit Card
+ORD-00643,08-11-2025,C023,Varun Patel,Chicago,Illinois,Central,P018,9,0%,Online,UPI
+ORD-00644,10-06-2025,C001,Ishaan Agarwal,Atlanta,Georgia,South,P025,2,5%,Online,Credit Card
+ORD-00645,26-08-2025,C007,Saanvi Yadav,Denver,Colorado,West,P016,3,0%,Online,UPI
+ORD-00646,04-02-2022,C033,Neha Rao,Atlanta,Georgia,South,P028,7,10%,Retail,Credit Card
+ORD-00647,19-11-2021,C003,Priya Menon,New York,New York,East,P010,3,5%,Online,Credit Card
+ORD-00648,06-02-2025,C042,Varun Rao,Austin,Texas,Central,P002,5,0%,Wholesale,Bank Transfer
+ORD-00649,27-01-2022,C031,Sara Bansal,Los Angeles,California,West,P007,4,10%,Online,Credit Card
+ORD-00650,22-09-2025,C060,Sara Chopra,Atlanta,Georgia,South,P007,1,5%,Online,Credit Card
+ORD-00651,08-03-2023,C036,Sara Rao,Chicago,Illinois,Central,P015,2,20%,Retail,UPI
+ORD-00652,14-09-2022,C042,Varun Rao,Austin,Texas,Central,P002,5,15%,Online,UPI
+ORD-00653,19-09-2025,C102,Neha Gupta,San Francisco,California,West,P007,7,15%,Online,UPI
+ORD-00654,31-01-2023,C094,Diya Kapoor,Boston,Massachusetts,East,P029,3,5%,Online,Credit Card
+ORD-00655,28-10-2025,C007,Saanvi Yadav,Denver,Colorado,West,P003,5,0%,Online,UPI
+ORD-00656,23-12-2025,C024,Aisha Chopra,San Francisco,California,West,P008,2,0%,Online,UPI
+ORD-00657,02-06-2024,C034,Krish Das,New York,New York,East,P008,4,10%,Online,Cash
+ORD-00658,18-11-2021,C049,Arjun Yadav,San Francisco,California,West,P024,4,0%,Online,UPI
+ORD-00659,28-06-2023,C088,Kavya Reddy,Los Angeles,California,West,P023,1,10%,Wholesale,Credit Card
+ORD-00660,28-10-2024,C043,Rohan Srinivasan,Philadelphia,Pennsylvania,East,P008,1,10%,Retail,Bank Transfer
+ORD-00661,27-11-2023,C040,Aarav Kapoor,Chicago,Illinois,Central,P008,6,5%,Online,Credit Card
+ORD-00662,30-04-2022,C109,Priya Nair,New York,New York,East,P015,2,10%,Online,Cash
+ORD-00663,18-08-2023,C109,Priya Nair,New York,New York,East,P004,1,0%,Wholesale,Credit Card
+ORD-00664,25-01-2023,C002,Riya Shah,Austin,Texas,Central,P026,3,0%,Wholesale,UPI
+ORD-00665,22-10-2025,C012,Kavya Menon,Los Angeles,California,West,P010,4,0%,Online,Cash
+ORD-00666,06-12-2022,C082,Varun Das,Los Angeles,California,West,P029,4,5%,Online,Credit Card
+ORD-00667,16-08-2023,C104,Priya Kapoor,Boston,Massachusetts,East,P018,4,20%,Retail,Credit Card
+ORD-00668,15-01-2021,C034,Krish Das,New York,New York,East,P026,1,0%,Retail,UPI
+ORD-00669,28-04-2022,C045,Ishaan Gupta,Seattle,Washington,West,P003,3,5%,Online,Credit Card
+ORD-00670,07-03-2025,C078,Aisha Singh,Austin,Texas,Central,P008,10,0%,Retail,Credit Card
+ORD-00671,24-09-2022,C085,Nikhil Patel,Miami,Florida,South,P015,2,10%,Retail,Credit Card
+ORD-00672,02-05-2024,C073,Arjun Iyer,Miami,Florida,South,P030,4,5%,Retail,Bank Transfer
+ORD-00673,19-10-2024,C108,Aarav Agarwal,Miami,Florida,South,P019,2,5%,Online,Credit Card
+ORD-00674,14-04-2021,C016,Tanvi Chopra,Chicago,Illinois,Central,P016,3,5%,Online,UPI
+ORD-00675,27-04-2023,C047,Varun Nair,Atlanta,Georgia,South,P010,1,10%,Online,Credit Card
+ORD-00676,02-11-2025,C006,Nikhil Gupta,San Francisco,California,West,P009,4,15%,Online,Credit Card
+ORD-00677,15-12-2023,C015,Krish Saxena,Seattle,Washington,West,P005,6,15%,Wholesale,Credit Card
+ORD-00678,19-02-2022,C098,Rohan Reddy,Miami,Florida,South,P002,5,0%,Wholesale,UPI
+ORD-00679,01-11-2025,C094,Diya Kapoor,Boston,Massachusetts,East,P006,1,15%,Retail,Bank Transfer
+ORD-00680,31-05-2022,C091,Riya Rao,Seattle,Washington,West,P030,1,10%,Online,UPI
+ORD-00681,06-03-2021,C071,Diya Shah,Atlanta,Georgia,South,P012,3,10%,Retail,Bank Transfer
+ORD-00682,21-07-2025,C036,Sara Rao,Chicago,Illinois,Central,P007,3,0%,Online,Credit Card
+ORD-00683,09-05-2025,C005,Tanvi Yadav,Atlanta,Georgia,South,P014,1,0%,Retail,Cash
+ORD-00684,19-11-2025,C005,Tanvi Yadav,Atlanta,Georgia,South,P009,4,5%,Retail,Credit Card
+ORD-00685,20-01-2024,C026,Sara Nair,Atlanta,Georgia,South,P025,4,0%,Online,Bank Transfer
+ORD-00686,28-06-2025,C055,Tanvi Patel,Boston,Massachusetts,East,P004,3,5%,Online,Credit Card
+ORD-00687,05-11-2023,C086,Rahul Saxena,Los Angeles,California,West,P002,1,0%,Online,Credit Card
+ORD-00688,13-08-2023,C028,Kavya Saxena,Boston,Massachusetts,East,P017,5,0%,Online,UPI
+ORD-00689,27-04-2022,C033,Neha Rao,Atlanta,Georgia,South,P007,10,5%,Retail,Credit Card
+ORD-00690,27-11-2023,C009,Anika Singh,Philadelphia,Pennsylvania,East,P019,4,5%,Online,UPI
+ORD-00691,21-03-2022,C038,Priya Reddy,Denver,Colorado,West,P004,3,15%,Online,Cash
+ORD-00692,20-12-2022,C105,Tanvi Das,Seattle,Washington,West,P011,3,15%,Retail,Credit Card
+ORD-00693,12-05-2023,C116,Anika Bansal,Los Angeles,California,West,P005,3,0%,Online,Bank Transfer
+ORD-00694,02-06-2023,C017,Kavya Yadav,Boston,Massachusetts,East,P005,1,5%,Online,Credit Card
+ORD-00695,04-10-2025,C084,Sara Srinivasan,Los Angeles,California,West,P002,10,5%,Online,Bank Transfer
+ORD-00696,21-08-2025,C067,Aarav Patel,Miami,Florida,South,P007,10,0%,Retail,UPI
+ORD-00697,13-11-2021,C086,Rahul Saxena,Los Angeles,California,West,P008,5,0%,Online,Bank Transfer
+ORD-00698,30-11-2025,C120,Sanjay Saxena,Austin,Texas,Central,P008,3,0%,Online,UPI
+ORD-00699,29-01-2024,C101,Riya Chopra,Denver,Colorado,West,P015,3,15%,Wholesale,UPI
+ORD-00700,22-07-2021,C116,Anika Bansal,Los Angeles,California,West,P002,8,10%,Online,UPI
+ORD-00701,27-11-2023,C084,Sara Srinivasan,Los Angeles,California,West,P014,3,5%,Retail,Credit Card
+ORD-00702,01-03-2022,C087,Sara Saxena,San Francisco,California,West,P025,1,0%,Online,UPI
+ORD-00703,24-01-2024,C098,Rohan Reddy,Miami,Florida,South,P002,8,0%,Online,Credit Card
+ORD-00704,08-01-2022,C025,Arjun Verma,Miami,Florida,South,P009,4,0%,Wholesale,Bank Transfer
+ORD-00705,12-10-2025,C080,Tanvi Kapoor,Denver,Colorado,West,P019,9,0%,Retail,Cash
+ORD-00706,24-12-2023,C060,Sara Chopra,Atlanta,Georgia,South,P002,4,0%,Wholesale,Bank Transfer
+ORD-00707,15-07-2021,C118,Neha Sharma,Boston,Massachusetts,East,P029,6,0%,Online,Credit Card
+ORD-00708,20-08-2022,C040,Aarav Kapoor,Chicago,Illinois,Central,P002,5,15%,Online,Cash
+ORD-00709,11-11-2025,C044,Riya Jain,Boston,Massachusetts,East,P007,2,5%,Retail,Bank Transfer
+ORD-00710,12-01-2025,C117,Diya Nair,San Francisco,California,West,P014,1,15%,Retail,Credit Card
+ORD-00711,30-12-2022,C080,Tanvi Kapoor,Denver,Colorado,West,P027,6,10%,Online,Credit Card
+ORD-00712,22-11-2021,C056,Rahul Iyer,Boston,Massachusetts,East,P016,5,5%,Online,Credit Card
+ORD-00713,13-01-2024,C110,Saanvi Reddy,Austin,Texas,Central,P014,6,15%,Online,Credit Card
+ORD-00714,23-01-2025,C120,Sanjay Saxena,Austin,Texas,Central,P002,4,20%,Retail,Credit Card
+ORD-00715,14-01-2021,C006,Nikhil Gupta,San Francisco,California,West,P018,7,0%,Online,Bank Transfer
+ORD-00716,14-03-2022,C050,Neha Bansal,Austin,Texas,Central,P008,2,0%,Wholesale,Credit Card
+ORD-00717,09-07-2021,C007,Saanvi Yadav,Denver,Colorado,West,P027,5,0%,Online,Credit Card
+ORD-00718,04-01-2022,C100,Neha Nair,Los Angeles,California,West,P011,1,10%,Online,Bank Transfer
+ORD-00719,08-03-2024,C115,Rahul Patel,Atlanta,Georgia,South,P016,1,20%,Retail,UPI
+ORD-00720,30-06-2024,C070,Aisha Srinivasan,Philadelphia,Pennsylvania,East,P008,10,10%,Retail,Credit Card
+ORD-00721,02-08-2023,C055,Tanvi Patel,Boston,Massachusetts,East,P002,3,0%,Retail,Credit Card
+ORD-00722,22-03-2022,C096,Neha Agarwal,San Francisco,California,West,P029,2,20%,Retail,Cash
+ORD-00723,23-10-2024,C007,Saanvi Yadav,Denver,Colorado,West,P018,6,0%,Online,UPI
+ORD-00724,08-09-2024,C060,Sara Chopra,Atlanta,Georgia,South,P009,7,5%,Online,Credit Card
+ORD-00725,29-05-2021,C006,Nikhil Gupta,San Francisco,California,West,P005,2,15%,Wholesale,Bank Transfer
+ORD-00726,15-06-2021,C051,Saanvi Kapoor,Miami,Florida,South,P009,2,0%,Retail,Credit Card
+ORD-00727,17-11-2023,C018,Meera Rao,New York,New York,East,P027,9,0%,Retail,Bank Transfer
+ORD-00728,07-01-2021,C112,Rahul Agarwal,New York,New York,East,P011,1,0%,Online,Credit Card
+ORD-00729,27-02-2021,C096,Neha Agarwal,San Francisco,California,West,P003,2,0%,Online,Cash
+ORD-00730,25-12-2021,C068,Nikhil Reddy,San Francisco,California,West,P014,1,10%,Online,Credit Card
+ORD-00731,12-05-2025,C109,Priya Nair,New York,New York,East,P025,3,10%,Retail,Bank Transfer
+ORD-00732,15-07-2025,C034,Krish Das,New York,New York,East,P008,10,0%,Online,UPI
+ORD-00733,17-11-2022,C009,Anika Singh,Philadelphia,Pennsylvania,East,P014,4,20%,Online,Credit Card
+ORD-00734,13-08-2021,C110,Saanvi Reddy,Austin,Texas,Central,P028,2,10%,Retail,UPI
+ORD-00735,04-10-2021,C051,Saanvi Kapoor,Miami,Florida,South,P022,2,5%,Retail,Credit Card
+ORD-00736,24-07-2024,C080,Tanvi Kapoor,Denver,Colorado,West,P026,1,10%,Online,UPI
+ORD-00737,18-02-2025,C108,Aarav Agarwal,Miami,Florida,South,P006,1,5%,Retail,Cash
+ORD-00738,03-08-2025,C052,Aarav Singh,Austin,Texas,Central,P010,1,20%,Retail,Cash
+ORD-00739,04-01-2022,C112,Rahul Agarwal,New York,New York,East,P005,5,0%,Online,UPI
+ORD-00740,17-05-2021,C118,Neha Sharma,Boston,Massachusetts,East,P008,9,5%,Online,Credit Card
+ORD-00741,10-10-2023,C056,Rahul Iyer,Boston,Massachusetts,East,P009,6,0%,Retail,UPI
+ORD-00742,18-01-2022,C024,Aisha Chopra,San Francisco,California,West,P002,8,0%,Wholesale,Cash
+ORD-00743,31-12-2022,C021,Nikhil Rao,Denver,Colorado,West,P007,8,0%,Wholesale,Credit Card
+ORD-00744,12-12-2022,C071,Diya Shah,Atlanta,Georgia,South,P020,5,15%,Retail,Credit Card
+ORD-00745,15-02-2021,C103,Neha Srinivasan,Atlanta,Georgia,South,P015,6,15%,Online,Credit Card
+ORD-00746,18-02-2025,C107,Anika Kapoor,Los Angeles,California,West,P007,2,15%,Online,UPI
+ORD-00747,07-07-2024,C075,Rahul Bansal,Dallas,Texas,Central,P019,4,5%,Retail,UPI
+ORD-00748,26-10-2023,C026,Sara Nair,Atlanta,Georgia,South,P014,6,5%,Online,Credit Card
+ORD-00749,25-06-2024,C080,Tanvi Kapoor,Denver,Colorado,West,P003,2,5%,Online,Bank Transfer
+ORD-00750,29-03-2022,C107,Anika Kapoor,Los Angeles,California,West,P013,2,0%,Retail,UPI
+ORD-00751,21-08-2021,C054,Ishaan Verma,Seattle,Washington,West,P002,6,0%,Retail,UPI
+ORD-00752,17-03-2022,C043,Rohan Srinivasan,Philadelphia,Pennsylvania,East,P002,10,20%,Online,UPI
+ORD-00753,28-08-2025,C040,Aarav Kapoor,Chicago,Illinois,Central,P004,1,20%,Online,UPI
+ORD-00754,25-06-2025,C098,Rohan Reddy,Miami,Florida,South,P002,9,0%,Online,Credit Card
+ORD-00755,22-01-2024,C094,Diya Kapoor,Boston,Massachusetts,East,P025,5,15%,Online,Credit Card
+ORD-00756,27-09-2025,C021,Nikhil Rao,Denver,Colorado,West,P015,4,5%,Online,Cash
+ORD-00757,18-04-2024,C047,Varun Nair,Atlanta,Georgia,South,P009,6,0%,Retail,UPI
+ORD-00758,05-12-2024,C055,Tanvi Patel,Boston,Massachusetts,East,P019,3,10%,Retail,Credit Card
+ORD-00759,04-07-2023,C005,Tanvi Yadav,Atlanta,Georgia,South,P008,8,0%,Wholesale,Credit Card
+ORD-00760,25-04-2021,C056,Rahul Iyer,Boston,Massachusetts,East,P018,7,0%,Online,UPI
+ORD-00761,14-08-2025,C048,Saanvi Gupta,Chicago,Illinois,Central,P016,2,0%,Online,Credit Card
+ORD-00762,04-04-2025,C102,Neha Gupta,San Francisco,California,West,P024,5,0%,Online,UPI
+ORD-00763,11-05-2025,C028,Kavya Saxena,Boston,Massachusetts,East,P012,3,0%,Retail,UPI
+ORD-00764,18-02-2023,C009,Anika Singh,Philadelphia,Pennsylvania,East,P004,2,0%,Online,Bank Transfer
+ORD-00765,05-01-2024,C087,Sara Saxena,San Francisco,California,West,P003,1,0%,Online,Credit Card
+ORD-00766,26-10-2024,C065,Rahul Jain,Chicago,Illinois,Central,P008,7,20%,Retail,Bank Transfer
+ORD-00767,15-07-2023,C112,Rahul Agarwal,New York,New York,East,P030,1,10%,Online,UPI
+ORD-00768,22-05-2025,C029,Aarav Menon,Denver,Colorado,West,P002,7,0%,Retail,Cash
+ORD-00769,17-11-2021,C035,Arjun Shah,Atlanta,Georgia,South,P030,3,5%,Retail,Bank Transfer
+ORD-00770,12-09-2022,C063,Diya Sharma,Boston,Massachusetts,East,P018,4,15%,Retail,Cash
+ORD-00771,04-11-2021,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P029,8,5%,Online,Credit Card
+ORD-00772,10-07-2023,C092,Arjun Menon,Atlanta,Georgia,South,P027,1,0%,Online,UPI
+ORD-00773,27-12-2025,C066,Saanvi Shah,Boston,Massachusetts,East,P005,1,10%,Retail,UPI
+ORD-00774,28-09-2025,C007,Saanvi Yadav,Denver,Colorado,West,P003,3,0%,Online,Credit Card
+ORD-00775,17-09-2025,C082,Varun Das,Los Angeles,California,West,P009,3,0%,Online,UPI
+ORD-00776,16-10-2024,C028,Kavya Saxena,Boston,Massachusetts,East,P011,1,0%,Online,UPI
+ORD-00777,12-01-2023,C013,Neha Menon,Austin,Texas,Central,P008,10,0%,Wholesale,Credit Card
+ORD-00778,13-11-2023,C047,Varun Nair,Atlanta,Georgia,South,P022,1,0%,Online,Credit Card
+ORD-00779,17-10-2023,C106,Saanvi Bansal,Boston,Massachusetts,East,P001,1,0%,Online,UPI
+ORD-00780,01-01-2023,C058,Rohan Jain,New York,New York,East,P027,4,0%,Online,Credit Card
+ORD-00781,24-06-2021,C106,Saanvi Bansal,Boston,Massachusetts,East,P018,6,5%,Online,UPI
+ORD-00782,30-06-2023,C071,Diya Shah,Atlanta,Georgia,South,P004,1,0%,Online,Credit Card
+ORD-00783,20-05-2021,C033,Neha Rao,Atlanta,Georgia,South,P028,5,0%,Online,Cash
+ORD-00784,11-10-2024,C078,Aisha Singh,Austin,Texas,Central,P002,5,0%,Online,Credit Card
+ORD-00785,03-12-2022,C031,Sara Bansal,Los Angeles,California,West,P002,5,15%,Online,UPI
+ORD-00786,06-12-2022,C103,Neha Srinivasan,Atlanta,Georgia,South,P001,2,0%,Online,Credit Card
+ORD-00787,26-12-2025,C051,Saanvi Kapoor,Miami,Florida,South,P006,1,15%,Online,Credit Card
+ORD-00788,07-01-2025,C095,Sara Shah,New York,New York,East,P001,2,5%,Online,Credit Card
+ORD-00789,10-10-2022,C040,Aarav Kapoor,Chicago,Illinois,Central,P017,1,0%,Retail,UPI
+ORD-00790,03-10-2023,C001,Ishaan Agarwal,Atlanta,Georgia,South,P002,3,0%,Online,UPI
+ORD-00791,06-04-2021,C024,Aisha Chopra,San Francisco,California,West,P019,2,0%,Online,Credit Card
+ORD-00792,02-01-2021,C026,Sara Nair,Atlanta,Georgia,South,P008,3,20%,Wholesale,UPI
+ORD-00793,19-08-2023,C065,Rahul Jain,Chicago,Illinois,Central,P005,2,10%,Retail,UPI
+ORD-00794,12-10-2021,C080,Tanvi Kapoor,Denver,Colorado,West,P007,3,0%,Online,UPI
+ORD-00795,03-10-2021,C007,Saanvi Yadav,Denver,Colorado,West,P019,6,0%,Online,UPI
+ORD-00796,08-12-2022,C029,Aarav Menon,Denver,Colorado,West,P009,4,10%,Online,Bank Transfer
+ORD-00797,03-12-2022,C054,Ishaan Verma,Seattle,Washington,West,P026,3,10%,Online,Bank Transfer
+ORD-00798,30-06-2021,C072,Anika Sharma,Dallas,Texas,Central,P018,1,10%,Retail,Credit Card
+ORD-00799,04-04-2024,C006,Nikhil Gupta,San Francisco,California,West,P015,1,0%,Online,Cash
+ORD-00800,15-01-2025,C083,Aarav Bansal,Denver,Colorado,West,P010,1,0%,Online,Bank Transfer
+ORD-00801,13-02-2025,C001,Ishaan Agarwal,Atlanta,Georgia,South,P005,1,5%,Online,Bank Transfer
+ORD-00802,27-09-2024,C087,Sara Saxena,San Francisco,California,West,P003,1,15%,Retail,Credit Card
+ORD-00803,08-05-2021,C118,Neha Sharma,Boston,Massachusetts,East,P013,1,5%,Online,Credit Card
+ORD-00804,08-10-2023,C049,Arjun Yadav,San Francisco,California,West,P008,1,10%,Wholesale,Credit Card
+ORD-00805,20-12-2021,C109,Priya Nair,New York,New York,East,P007,7,5%,Retail,Credit Card
+ORD-00806,15-01-2022,C117,Diya Nair,San Francisco,California,West,P020,3,5%,Online,UPI
+ORD-00807,11-09-2021,C011,Ishaan Rao,Austin,Texas,Central,P029,7,10%,Online,Credit Card
+ORD-00808,01-08-2024,C047,Varun Nair,Atlanta,Georgia,South,P012,2,10%,Retail,UPI
+ORD-00809,10-11-2023,C053,Rohan Bansal,Seattle,Washington,West,P029,2,0%,Online,Credit Card
+ORD-00810,03-09-2021,C017,Kavya Yadav,Boston,Massachusetts,East,P008,6,0%,Online,Credit Card
+ORD-00811,10-07-2024,C003,Priya Menon,New York,New York,East,P022,1,0%,Wholesale,UPI
+ORD-00812,10-01-2025,C090,Rahul Menon,Atlanta,Georgia,South,P008,4,0%,Online,UPI
+ORD-00813,08-11-2021,C046,Aarav Rao,Dallas,Texas,Central,P007,2,0%,Retail,Cash
+ORD-00814,17-01-2022,C101,Riya Chopra,Denver,Colorado,West,P011,1,0%,Online,UPI
+ORD-00815,11-04-2021,C068,Nikhil Reddy,San Francisco,California,West,P001,1,5%,Retail,Credit Card
+ORD-00816,07-03-2025,C086,Rahul Saxena,Los Angeles,California,West,P008,2,10%,Online,Credit Card
+ORD-00817,22-05-2025,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P029,5,5%,Wholesale,Credit Card
+ORD-00818,05-09-2023,C072,Anika Sharma,Dallas,Texas,Central,P002,1,5%,Online,Bank Transfer
+ORD-00819,01-10-2025,C024,Aisha Chopra,San Francisco,California,West,P027,3,15%,Online,UPI
+ORD-00820,25-08-2025,C080,Tanvi Kapoor,Denver,Colorado,West,P028,1,0%,Online,Bank Transfer
+ORD-00821,02-05-2022,C103,Neha Srinivasan,Atlanta,Georgia,South,P005,4,5%,Online,Credit Card
+ORD-00822,15-05-2022,C051,Saanvi Kapoor,Miami,Florida,South,P007,5,20%,Retail,Cash
+ORD-00823,15-09-2021,C005,Tanvi Yadav,Atlanta,Georgia,South,P009,3,0%,Wholesale,Credit Card
+ORD-00824,26-01-2021,C009,Anika Singh,Philadelphia,Pennsylvania,East,P017,2,0%,Online,Credit Card
+ORD-00825,18-05-2023,C036,Sara Rao,Chicago,Illinois,Central,P002,1,10%,Online,Credit Card
+ORD-00826,18-06-2025,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P007,1,0%,Online,Bank Transfer
+ORD-00827,10-12-2025,C024,Aisha Chopra,San Francisco,California,West,P003,6,10%,Retail,Credit Card
+ORD-00828,15-11-2023,C026,Sara Nair,Atlanta,Georgia,South,P013,1,0%,Online,Cash
+ORD-00829,10-08-2023,C103,Neha Srinivasan,Atlanta,Georgia,South,P008,4,5%,Retail,Credit Card
+ORD-00830,05-05-2021,C058,Rohan Jain,New York,New York,East,P007,10,20%,Online,Cash
+ORD-00831,11-07-2022,C087,Sara Saxena,San Francisco,California,West,P009,8,10%,Wholesale,Credit Card
+ORD-00832,30-09-2023,C039,Priya Rao,Miami,Florida,South,P008,6,0%,Online,UPI
+ORD-00833,05-01-2021,C118,Neha Sharma,Boston,Massachusetts,East,P014,2,0%,Retail,UPI
+ORD-00834,31-01-2023,C106,Saanvi Bansal,Boston,Massachusetts,East,P002,6,10%,Online,UPI
+ORD-00835,10-03-2022,C008,Rohan Das,Seattle,Washington,West,P025,1,0%,Retail,Bank Transfer
+ORD-00836,29-03-2024,C073,Arjun Iyer,Miami,Florida,South,P020,5,0%,Online,Credit Card
+ORD-00837,04-12-2025,C073,Arjun Iyer,Miami,Florida,South,P018,2,15%,Retail,Credit Card
+ORD-00838,25-09-2022,C078,Aisha Singh,Austin,Texas,Central,P008,5,0%,Wholesale,Credit Card
+ORD-00839,14-03-2024,C033,Neha Rao,Atlanta,Georgia,South,P002,3,0%,Online,UPI
+ORD-00840,03-02-2025,C009,Anika Singh,Philadelphia,Pennsylvania,East,P009,3,0%,Retail,Bank Transfer
+ORD-00841,29-11-2021,C059,Rahul Das,Philadelphia,Pennsylvania,East,P005,2,5%,Online,Credit Card
+ORD-00842,08-03-2023,C103,Neha Srinivasan,Atlanta,Georgia,South,P002,7,0%,Retail,Credit Card
+ORD-00843,06-01-2023,C047,Varun Nair,Atlanta,Georgia,South,P018,5,5%,Online,UPI
+ORD-00844,09-01-2024,C047,Varun Nair,Atlanta,Georgia,South,P008,3,15%,Online,Credit Card
+ORD-00845,11-03-2022,C108,Aarav Agarwal,Miami,Florida,South,P024,1,20%,Retail,Credit Card
+ORD-00846,04-10-2021,C008,Rohan Das,Seattle,Washington,West,P002,8,10%,Online,Credit Card
+ORD-00847,20-04-2023,C022,Krish Singh,Chicago,Illinois,Central,P025,3,5%,Online,Credit Card
+ORD-00848,09-11-2025,C071,Diya Shah,Atlanta,Georgia,South,P002,4,0%,Retail,Credit Card
+ORD-00849,25-08-2022,C118,Neha Sharma,Boston,Massachusetts,East,P005,4,20%,Online,Cash
+ORD-00850,07-10-2021,C028,Kavya Saxena,Boston,Massachusetts,East,P006,2,15%,Online,Bank Transfer
+ORD-00851,05-10-2024,C004,Aarav Shah,Chicago,Illinois,Central,P007,3,0%,Wholesale,UPI
+ORD-00852,01-07-2024,C058,Rohan Jain,New York,New York,East,P020,3,0%,Retail,Credit Card
+ORD-00853,26-08-2022,C056,Rahul Iyer,Boston,Massachusetts,East,P016,5,5%,Wholesale,UPI
+ORD-00854,19-07-2025,C056,Rahul Iyer,Boston,Massachusetts,East,P023,4,0%,Retail,Credit Card
+ORD-00855,13-04-2024,C006,Nikhil Gupta,San Francisco,California,West,P008,1,0%,Online,UPI
+ORD-00856,09-03-2021,C073,Arjun Iyer,Miami,Florida,South,P019,8,5%,Retail,Credit Card
+ORD-00857,10-03-2024,C039,Priya Rao,Miami,Florida,South,P002,4,0%,Online,Cash
+ORD-00858,21-09-2025,C104,Priya Kapoor,Boston,Massachusetts,East,P016,2,0%,Retail,Credit Card
+ORD-00859,02-06-2021,C055,Tanvi Patel,Boston,Massachusetts,East,P003,4,10%,Retail,Credit Card
+ORD-00860,24-03-2021,C088,Kavya Reddy,Los Angeles,California,West,P017,1,10%,Retail,Credit Card
+ORD-00861,29-12-2021,C065,Rahul Jain,Chicago,Illinois,Central,P028,4,10%,Retail,Bank Transfer
+ORD-00862,20-04-2022,C011,Ishaan Rao,Austin,Texas,Central,P002,2,10%,Retail,Credit Card
+ORD-00863,01-11-2023,C049,Arjun Yadav,San Francisco,California,West,P018,5,0%,Online,Bank Transfer
+ORD-00864,27-10-2021,C054,Ishaan Verma,Seattle,Washington,West,P027,1,5%,Retail,UPI
+ORD-00865,07-03-2024,C040,Aarav Kapoor,Chicago,Illinois,Central,P008,5,0%,Online,Credit Card
+ORD-00866,22-09-2021,C050,Neha Bansal,Austin,Texas,Central,P022,1,0%,Retail,Credit Card
+ORD-00867,14-05-2023,C103,Neha Srinivasan,Atlanta,Georgia,South,P003,4,10%,Retail,Credit Card
+ORD-00868,02-09-2022,C050,Neha Bansal,Austin,Texas,Central,P011,3,10%,Retail,Credit Card
+ORD-00869,02-08-2024,C003,Priya Menon,New York,New York,East,P002,9,10%,Online,UPI
+ORD-00870,16-02-2023,C059,Rahul Das,Philadelphia,Pennsylvania,East,P001,1,0%,Online,Credit Card
+ORD-00871,11-01-2025,C095,Sara Shah,New York,New York,East,P002,3,0%,Retail,Cash
+ORD-00872,13-02-2025,C062,Sanjay Rao,Seattle,Washington,West,P009,5,10%,Online,Credit Card
+ORD-00873,29-08-2023,C110,Saanvi Reddy,Austin,Texas,Central,P018,7,5%,Online,Credit Card
+ORD-00874,14-10-2021,C066,Saanvi Shah,Boston,Massachusetts,East,P020,1,0%,Retail,UPI
+ORD-00875,15-09-2022,C096,Neha Agarwal,San Francisco,California,West,P004,2,20%,Retail,Cash
+ORD-00876,15-11-2024,C094,Diya Kapoor,Boston,Massachusetts,East,P024,1,5%,Wholesale,Bank Transfer
+ORD-00877,25-03-2024,C095,Sara Shah,New York,New York,East,P004,3,0%,Retail,Credit Card
+ORD-00878,05-08-2024,C021,Nikhil Rao,Denver,Colorado,West,P003,6,0%,Online,Credit Card
+ORD-00879,04-06-2023,C118,Neha Sharma,Boston,Massachusetts,East,P008,7,0%,Online,Credit Card
+ORD-00880,04-10-2025,C030,Aisha Saxena,Philadelphia,Pennsylvania,East,P007,2,5%,Online,Credit Card
+ORD-00881,10-08-2022,C075,Rahul Bansal,Dallas,Texas,Central,P018,5,10%,Online,Bank Transfer
+ORD-00882,24-06-2024,C075,Rahul Bansal,Dallas,Texas,Central,P024,5,0%,Retail,Credit Card
+ORD-00883,20-01-2024,C075,Rahul Bansal,Dallas,Texas,Central,P002,2,10%,Online,Bank Transfer
+ORD-00884,25-05-2024,C104,Priya Kapoor,Boston,Massachusetts,East,P010,2,0%,Retail,UPI
+ORD-00885,19-02-2024,C046,Aarav Rao,Dallas,Texas,Central,P005,3,15%,Retail,Bank Transfer
+ORD-00886,17-03-2023,C087,Sara Saxena,San Francisco,California,West,P020,3,10%,Wholesale,UPI
+ORD-00887,20-04-2022,C011,Ishaan Rao,Austin,Texas,Central,P008,6,5%,Wholesale,Credit Card
+ORD-00888,23-06-2021,C100,Neha Nair,Los Angeles,California,West,P024,3,0%,Online,Credit Card
+ORD-00889,09-09-2025,C081,Varun Srinivasan,New York,New York,East,P029,7,15%,Online,Credit Card
+ORD-00890,28-12-2021,C100,Neha Nair,Los Angeles,California,West,P018,2,10%,Wholesale,UPI
+ORD-00891,13-11-2023,C004,Aarav Shah,Chicago,Illinois,Central,P002,2,5%,Online,UPI
+ORD-00892,24-12-2025,C118,Neha Sharma,Boston,Massachusetts,East,P003,2,5%,Retail,UPI
+ORD-00893,30-10-2022,C062,Sanjay Rao,Seattle,Washington,West,P004,1,15%,Online,Bank Transfer
+ORD-00894,24-03-2024,C047,Varun Nair,Atlanta,Georgia,South,P004,2,20%,Online,UPI
+ORD-00895,06-06-2023,C068,Nikhil Reddy,San Francisco,California,West,P019,3,5%,Wholesale,Bank Transfer
+ORD-00896,04-07-2023,C051,Saanvi Kapoor,Miami,Florida,South,P028,6,10%,Online,Bank Transfer
+ORD-00897,17-05-2022,C031,Sara Bansal,Los Angeles,California,West,P003,1,5%,Online,Credit Card
+ORD-00898,10-11-2024,C067,Aarav Patel,Miami,Florida,South,P018,1,5%,Retail,Cash
+ORD-00899,18-07-2024,C101,Riya Chopra,Denver,Colorado,West,P004,1,15%,Retail,Bank Transfer
+ORD-00900,22-08-2023,C029,Aarav Menon,Denver,Colorado,West,P007,1,0%,Retail,UPI
+ORD-00901,11-12-2021,C094,Diya Kapoor,Boston,Massachusetts,East,P018,8,0%,Retail,UPI
+ORD-00902,06-11-2021,C010,Neha Patel,Los Angeles,California,West,P030,4,10%,Retail,UPI
+ORD-00903,24-09-2021,C047,Varun Nair,Atlanta,Georgia,South,P015,4,5%,Retail,Credit Card
+ORD-00904,30-11-2022,C041,Anika Agarwal,Seattle,Washington,West,P024,4,5%,Online,Bank Transfer
+ORD-00905,15-09-2023,C106,Saanvi Bansal,Boston,Massachusetts,East,P013,1,5%,Retail,Credit Card
+ORD-00906,03-01-2023,C035,Arjun Shah,Atlanta,Georgia,South,P009,2,0%,Wholesale,UPI
+ORD-00907,20-10-2023,C100,Neha Nair,Los Angeles,California,West,P003,5,10%,Wholesale,UPI
+ORD-00908,17-11-2023,C073,Arjun Iyer,Miami,Florida,South,P007,2,5%,Online,UPI
+ORD-00909,29-03-2024,C020,Sara Gupta,Los Angeles,California,West,P026,1,0%,Online,Credit Card
+ORD-00910,16-02-2024,C078,Aisha Singh,Austin,Texas,Central,P010,1,5%,Online,Credit Card
+ORD-00911,21-10-2025,C032,Priya Gupta,Seattle,Washington,West,P029,1,10%,Online,Bank Transfer
+ORD-00912,02-08-2022,C011,Ishaan Rao,Austin,Texas,Central,P025,2,5%,Retail,Cash
+ORD-00913,24-02-2024,C040,Aarav Kapoor,Chicago,Illinois,Central,P026,4,0%,Retail,Credit Card
+ORD-00914,12-08-2024,C103,Neha Srinivasan,Atlanta,Georgia,South,P030,2,0%,Retail,Credit Card
+ORD-00915,21-11-2021,C103,Neha Srinivasan,Atlanta,Georgia,South,P009,6,5%,Online,Cash
+ORD-00916,28-05-2024,C051,Saanvi Kapoor,Miami,Florida,South,P002,8,15%,Retail,UPI
+ORD-00917,14-01-2023,C080,Tanvi Kapoor,Denver,Colorado,West,P009,6,5%,Online,UPI
+ORD-00918,18-10-2025,C104,Priya Kapoor,Boston,Massachusetts,East,P016,2,5%,Online,Cash
+ORD-00919,05-12-2025,C012,Kavya Menon,Los Angeles,California,West,P007,5,5%,Online,Credit Card
+ORD-00920,21-09-2024,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P011,3,0%,Online,UPI
+ORD-00921,21-03-2024,C103,Neha Srinivasan,Atlanta,Georgia,South,P005,2,5%,Online,Credit Card
+ORD-00922,04-11-2021,C106,Saanvi Bansal,Boston,Massachusetts,East,P027,2,5%,Retail,Credit Card
+ORD-00923,03-12-2024,C036,Sara Rao,Chicago,Illinois,Central,P030,5,5%,Retail,Credit Card
+ORD-00924,24-02-2023,C007,Saanvi Yadav,Denver,Colorado,West,P006,1,0%,Online,Bank Transfer
+ORD-00925,05-06-2025,C047,Varun Nair,Atlanta,Georgia,South,P010,1,0%,Online,UPI
+ORD-00926,23-01-2024,C032,Priya Gupta,Seattle,Washington,West,P004,2,0%,Online,Bank Transfer
+ORD-00927,25-07-2025,C023,Varun Patel,Chicago,Illinois,Central,P013,1,5%,Online,Credit Card
+ORD-00928,17-10-2024,C103,Neha Srinivasan,Atlanta,Georgia,South,P007,4,5%,Online,Cash
+ORD-00929,10-01-2025,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P007,4,0%,Online,Credit Card
+ORD-00930,23-06-2023,C073,Arjun Iyer,Miami,Florida,South,P015,1,10%,Online,Credit Card
+ORD-00931,08-07-2023,C038,Priya Reddy,Denver,Colorado,West,P004,2,0%,Retail,Credit Card
+ORD-00932,10-03-2023,C087,Sara Saxena,San Francisco,California,West,P008,10,5%,Retail,Credit Card
+ORD-00933,09-06-2023,C032,Priya Gupta,Seattle,Washington,West,P017,6,0%,Online,Credit Card
+ORD-00934,23-12-2023,C095,Sara Shah,New York,New York,East,P030,1,10%,Online,UPI
+ORD-00935,20-03-2024,C112,Rahul Agarwal,New York,New York,East,P029,4,0%,Online,Bank Transfer
+ORD-00936,05-02-2022,C049,Arjun Yadav,San Francisco,California,West,P003,6,10%,Online,Bank Transfer
+ORD-00937,14-07-2022,C075,Rahul Bansal,Dallas,Texas,Central,P029,10,0%,Online,UPI
+ORD-00938,23-02-2025,C061,Kavya Kapoor,Denver,Colorado,West,P007,2,20%,Wholesale,Credit Card
+ORD-00939,12-05-2021,C043,Rohan Srinivasan,Philadelphia,Pennsylvania,East,P017,3,10%,Wholesale,UPI
+ORD-00940,05-08-2025,C001,Ishaan Agarwal,Atlanta,Georgia,South,P010,3,15%,Retail,Credit Card
+ORD-00941,18-07-2021,C080,Tanvi Kapoor,Denver,Colorado,West,P016,3,10%,Online,UPI
+ORD-00942,10-07-2024,C057,Meera Nair,Seattle,Washington,West,P009,10,15%,Online,UPI
+ORD-00943,11-10-2023,C039,Priya Rao,Miami,Florida,South,P011,1,10%,Online,UPI
+ORD-00944,08-10-2024,C078,Aisha Singh,Austin,Texas,Central,P008,7,10%,Retail,Credit Card
+ORD-00945,12-08-2022,C110,Saanvi Reddy,Austin,Texas,Central,P007,1,15%,Wholesale,UPI
+ORD-00946,27-10-2022,C093,Aisha Iyer,Los Angeles,California,West,P006,4,10%,Online,Credit Card
+ORD-00947,10-12-2024,C034,Krish Das,New York,New York,East,P022,1,0%,Wholesale,UPI
+ORD-00948,19-07-2024,C019,Varun Menon,Dallas,Texas,Central,P025,5,0%,Online,Credit Card
+ORD-00949,15-12-2023,C072,Anika Sharma,Dallas,Texas,Central,P024,4,0%,Online,Cash
+ORD-00950,17-12-2025,C108,Aarav Agarwal,Miami,Florida,South,P003,5,5%,Retail,Credit Card
+ORD-00951,31-12-2023,C096,Neha Agarwal,San Francisco,California,West,P004,1,10%,Retail,Credit Card
+ORD-00952,27-03-2022,C080,Tanvi Kapoor,Denver,Colorado,West,P019,2,10%,Online,Bank Transfer
+ORD-00953,08-12-2025,C022,Krish Singh,Chicago,Illinois,Central,P022,1,0%,Online,Bank Transfer
+ORD-00954,28-05-2024,C088,Kavya Reddy,Los Angeles,California,West,P027,6,10%,Online,Bank Transfer
+ORD-00955,06-01-2025,C028,Kavya Saxena,Boston,Massachusetts,East,P018,3,15%,Online,Credit Card
+ORD-00956,06-06-2022,C021,Nikhil Rao,Denver,Colorado,West,P008,4,10%,Retail,Cash
+ORD-00957,23-04-2024,C071,Diya Shah,Atlanta,Georgia,South,P003,1,10%,Wholesale,Cash
+ORD-00958,11-12-2022,C098,Rohan Reddy,Miami,Florida,South,P002,4,5%,Online,Credit Card
+ORD-00959,10-10-2024,C075,Rahul Bansal,Dallas,Texas,Central,P030,4,0%,Wholesale,UPI
+ORD-00960,11-05-2025,C105,Tanvi Das,Seattle,Washington,West,P028,3,15%,Wholesale,Credit Card
+ORD-00961,17-10-2023,C071,Diya Shah,Atlanta,Georgia,South,P006,1,0%,Wholesale,Credit Card
+ORD-00962,12-01-2022,C067,Aarav Patel,Miami,Florida,South,P009,9,5%,Wholesale,UPI
+ORD-00963,25-04-2024,C080,Tanvi Kapoor,Denver,Colorado,West,P010,4,0%,Wholesale,Credit Card
+ORD-00964,12-12-2021,C039,Priya Rao,Miami,Florida,South,P018,3,5%,Retail,UPI
+ORD-00965,07-09-2023,C033,Neha Rao,Atlanta,Georgia,South,P023,2,5%,Online,Bank Transfer
+ORD-00966,09-08-2024,C100,Neha Nair,Los Angeles,California,West,P008,8,0%,Online,Credit Card
+ORD-00967,28-06-2021,C078,Aisha Singh,Austin,Texas,Central,P002,8,0%,Retail,Bank Transfer
+ORD-00968,11-01-2022,C080,Tanvi Kapoor,Denver,Colorado,West,P016,1,0%,Retail,Credit Card
+ORD-00969,18-05-2022,C103,Neha Srinivasan,Atlanta,Georgia,South,P022,1,15%,Online,Credit Card
+ORD-00970,25-11-2023,C085,Nikhil Patel,Miami,Florida,South,P029,6,5%,Online,Cash
+ORD-00971,19-02-2025,C038,Priya Reddy,Denver,Colorado,West,P004,3,0%,Retail,Credit Card
+ORD-00972,17-06-2024,C100,Neha Nair,Los Angeles,California,West,P024,6,0%,Online,Credit Card
+ORD-00973,14-12-2023,C105,Tanvi Das,Seattle,Washington,West,P007,10,10%,Online,Credit Card
+ORD-00974,05-10-2021,C071,Diya Shah,Atlanta,Georgia,South,P002,5,0%,Retail,Credit Card
+ORD-00975,26-02-2023,C058,Rohan Jain,New York,New York,East,P002,4,5%,Online,Bank Transfer
+ORD-00976,28-09-2023,C057,Meera Nair,Seattle,Washington,West,P007,10,5%,Online,Credit Card
+ORD-00977,05-06-2024,C032,Priya Gupta,Seattle,Washington,West,P018,8,5%,Retail,Credit Card
+ORD-00978,16-01-2021,C078,Aisha Singh,Austin,Texas,Central,P027,1,0%,Online,Cash
+ORD-00979,17-05-2025,C109,Priya Nair,New York,New York,East,P008,8,5%,Online,Credit Card
+ORD-00980,18-07-2025,C084,Sara Srinivasan,Los Angeles,California,West,P008,3,10%,Online,Credit Card
+ORD-00981,25-09-2024,C071,Diya Shah,Atlanta,Georgia,South,P019,3,5%,Online,Bank Transfer
+ORD-00982,13-08-2022,C021,Nikhil Rao,Denver,Colorado,West,P004,2,15%,Online,Cash
+ORD-00983,14-02-2024,C036,Sara Rao,Chicago,Illinois,Central,P020,1,0%,Retail,Cash
+ORD-00984,05-03-2022,C058,Rohan Jain,New York,New York,East,P018,2,0%,Online,Credit Card
+ORD-00985,19-10-2023,C098,Rohan Reddy,Miami,Florida,South,P004,4,5%,Online,UPI
+ORD-00986,29-04-2021,C117,Diya Nair,San Francisco,California,West,P029,5,20%,Online,Credit Card
+ORD-00987,28-04-2024,C078,Aisha Singh,Austin,Texas,Central,P015,3,0%,Online,Credit Card
+ORD-00988,31-10-2025,C085,Nikhil Patel,Miami,Florida,South,P009,10,5%,Online,UPI
+ORD-00989,09-10-2024,C028,Kavya Saxena,Boston,Massachusetts,East,P002,6,0%,Online,UPI
+ORD-00990,21-06-2025,C101,Riya Chopra,Denver,Colorado,West,P018,10,0%,Retail,Bank Transfer
+ORD-00991,11-08-2025,C109,Priya Nair,New York,New York,East,P008,3,0%,Retail,Credit Card
+ORD-00992,12-12-2022,C059,Rahul Das,Philadelphia,Pennsylvania,East,P026,3,15%,Wholesale,Bank Transfer
+ORD-00993,23-05-2021,C116,Anika Bansal,Los Angeles,California,West,P009,8,15%,Online,UPI
+ORD-00994,14-12-2024,C060,Sara Chopra,Atlanta,Georgia,South,P028,6,5%,Online,UPI
+ORD-00995,17-08-2021,C001,Ishaan Agarwal,Atlanta,Georgia,South,P007,5,0%,Retail,Bank Transfer
+ORD-00996,03-06-2025,C032,Priya Gupta,Seattle,Washington,West,P002,9,0%,Online,Credit Card
+ORD-00997,08-01-2023,C073,Arjun Iyer,Miami,Florida,South,P027,7,0%,Retail,Cash
+ORD-00998,23-12-2022,C076,Anika Nair,Boston,Massachusetts,East,P007,7,0%,Wholesale,Credit Card
+ORD-00999,10-02-2025,C014,Sanjay Shah,Philadelphia,Pennsylvania,East,P004,2,5%,Retail,Credit Card
+ORD-01000,01-02-2025,C002,Riya Shah,Austin,Texas,Central,P012,6,15%,Retail,Credit Card
